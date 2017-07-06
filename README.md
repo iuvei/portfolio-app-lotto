@@ -1,2 +1,2 @@
-#Lotto Land Asia ReactJS web app demo
+Lotto Land Asia ReactJS web app demo
 
