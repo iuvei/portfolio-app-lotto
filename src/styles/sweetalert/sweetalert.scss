@@ -1,0 +1,13 @@
+.sweet-alert button:hover{
+  background-color: #f2b64f !important;
+}
+
+.sweet-alert .sa-icon.sa-success .sa-line {
+  background-color: #b5d264 !important;
+}
+
+@media screen and (max-width: 480px) {
+  .swal2-modal{
+    margin-top:50%!important;
+  }
+}

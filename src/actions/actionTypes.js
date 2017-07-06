@@ -1,0 +1,72 @@
+const REQUEST = 'REQUEST';
+const SUCCESS = 'SUCCESS';
+const FAILURE = 'FAILURE';
+
+function createRequestTypes(base) {
+  const requestType = {};
+  [REQUEST, SUCCESS, FAILURE].forEach(type => {
+    requestType[type] = `${base}_${type}`;
+  });
+  return requestType;
+}
+export const BEGIN_AJAX_CALL = 'BEGIN_AJAX_CALL';
+export const AJAX_CALL_ERROR = 'AJAX_CALL_ERROR';
+export const END_AJAX_CALL = 'END_AJAX_CALL';
+
+export const USER_LOGGED_IN = 'USER_LOGGED_IN';
+export const USER_LOGGED_IN_SUCCESS = 'USER_LOGGED_IN_SUCCESS';
+export const POST_USER_FINGERPRINT = createRequestTypes('POST_USER_FINGERPRINT');
+
+export const FIND_WALLET_SUCCESS = 'FIND_WALLET_SUCCESS';
+
+export const CREDIT_WALLET_SUCCESS = 'CREDIT_WALLET_SUCCESS';
+export const DEBIT_WALLET_SUCCESS = 'DEBIT_WALLET_SUCCESS';
+
+export const UPDATE_USER_SUCCESS = 'UPDATE_USER_SUCCESS';
+
+export const UPDATE_WALLET_BALANCE = 'UPDATE_WALLET_BALANCE';
+
+export const LOAD_TRANSACTION_SUCCESS = 'LOAD_TRANSACTION_SUCCESS';
+
+export const LOAD_CASINO_GAMES_SUCCESS = 'LOAD_CASINO_GAMES_SUCCESS';
+export const LOAD_CASINO_GAMES_FEATURED_SUCCESS = 'LOAD_CASINO_GAMES_FEATURED_SUCCESS';
+export const LOAD_VIDEOSLOT_GAMES_SUCCESS = 'LOAD_VIDEOSLOT_GAMES_SUCCESS';
+export const LOAD_LIVE_GAMES_SUCCESS = 'LOAD_LIVE_GAMES_SUCCESS';
+
+export const CREATE_CASINO_ACCOUNT_SUCCESS = 'CREATE_CASINO_ACCOUNT_SUCCESS';
+
+export const CASINO_PLAY_SUCCESS = 'CASINO_PLAY_SUCCESS';
+export const LOAD_EXTERNAL_WALLET_SUCCESS = 'LOAD_EXTERNAL_WALLET_SUCCESS';
+export const TRANSFER_WALLET_SUCCESS = 'TRANSFER_WALLET_SUCCESS';
+export const UPDATE_CASINO_BALANCE = 'UPDATE_CASINO_BALANCE';
+// LFG
+export const FETCH_DRAWINGS = createRequestTypes('FETCH_DRAWINGS');
+export const FETCH_DRAWINGS_HISTORY = createRequestTypes('FETCH_DRAWINGS_HISTORY');
+export const FETCH_DRAWINGS_BYDATE = createRequestTypes('FETCH_DRAWINGS_BYDATE');
+export const FETCH_DRAWINGS_BY_ID = createRequestTypes('FETCH_DRAWINGS_BY_ID');
+export const FETCH_LOTTERIES = createRequestTypes('FETCH_LOTTERIES');
+export const FETCH_PRICES = createRequestTypes('FETCH_PRICES');
+export const POST_BET = createRequestTypes('POST_BET');
+export const POST_OPENBET = createRequestTypes('POST_OPENBET');
+export const POST_BET_HISTORY = createRequestTypes('POST_BET_HISTORY');
+export const POST_FETCH_LOTTERY_AMT = createRequestTypes('POST_FETCH_LOTTERY_AMT');
+
+export const TOGGLE_LEFT_NAV = 'TOGGLE_LEFT_NAV';
+export const TOGGLE_RIGHT_NAV = 'TOGGLE_RIGHT_NAV';
+
+export const LOAD_DRAWING_SUCCESS = 'LOAD_DRAWING_SUCCESS';
+
+export const LOAD_BANKS_SUCCESS = 'LOAD_BANKS_SUCCESS';
+
+export const LOAD_LOCALE_SUCCESS = 'LOAD_LOCALE_SUCCESS';
+export const LOAD_PROMOTION_SUCCESS = 'LOAD_PROMOTION_SUCCESS';
+
+export const POST_TAGS = createRequestTypes('POST_TAGS');
+export const FETCH_CATEGORIES = createRequestTypes('FETCH_CATEGORIES');
+export const GET_USER_EVENT = createRequestTypes('GET_USER_EVENT');
+
+// LTS
+export const FETCH_PRODUCT_STATE = createRequestTypes('FETCH_PRODUCT_STATE');
+export const POST_PRODUCT_BET = createRequestTypes('POST_PRODUCT_BET');
+
+export const FIND_LOYALTY_SUCCESS = 'FIND_LOYALTY_SUCCESS';

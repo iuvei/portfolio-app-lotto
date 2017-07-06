@@ -1,0 +1,17 @@
+// login form specific styles
+
+#loginForm {
+  .input-label { font-size: 10pt; }
+
+  input[type="password"],
+  input[type="email"] {
+    font-size: 10pt;
+  }
+
+}
+
+@media screen and (max-width: 480px) {
+  #login-register {
+    width: 95%;
+  }
+}

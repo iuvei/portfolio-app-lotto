@@ -1,0 +1,322 @@
+// my lottery specific styles
+
+#my-lottery {
+  margin-bottom: .75em;
+
+  #tab-section {
+    .tabs {
+      border-radius: 4px;
+    }
+    .tab-links {
+      li {
+        width: auto;
+      }
+      a {
+        font-size: 14pt;
+      }
+    }
+  }
+
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"],
+  .button {
+    padding: 0em 4em;
+
+    &.green {
+      background-color: #69a507;
+      box-shadow: none;
+      color: #efefef !important;
+      &:hover {
+        background-color: #87b738;
+        color: #000 !important;
+      }
+    }
+
+    &.red {
+      background-color: #d53d4c;
+      box-shadow: none;
+      color: #efefef !important;
+      &:hover {
+        background-color: #dd636f;
+        color: #000 !important;
+      }
+    }
+
+    &.stretch {
+
+    }
+  }
+
+  .lottery-tickets, .scratchcards {
+    table {
+      margin: 0 0 1em 0;
+      width: 100%;
+      background-color: transparent;
+      border-radius: 0;
+      border-collapse: separate;
+      border-spacing: 0 3px;
+
+      tbody {
+        border-left: 0;
+        border-right: 0;
+        // background-color: #222;
+
+        tr {
+          border: solid 1px #323232; //_palette(border)
+          // padding: 0.75em 0.75em;
+          font-size: 1em;
+          border-radius: 4px !important;
+          background-color: #222;
+
+          // &:nth-child(odd) {
+          //   background-color: #222; //_palette(border-bg)
+          // }
+          // &:last-child {
+          //   border-radius: 0 0 4px 4px !important;
+          // }
+          &:hover {
+            background-color: #222;
+            border-radius: 0px;
+            box-shadow: none;
+          }
+
+          td {
+            &:first-child {
+              border-top-left-radius: 4px;
+              border-bottom-left-radius: 4px;
+            }
+            &:last-child {
+              border-top-right-radius: 4px;
+              border-bottom-right-radius: 4px;
+            }
+          }
+
+        }
+        .ticketRow {
+          cursor: pointer;
+
+          &:hover {
+            background-color: #383838;
+            border-radius: 4px;
+            box-shadow: inset 0 0 10px 1px #aaa;
+            td {
+              &:first-child {
+                border-top-left-radius: 4px;
+                border-bottom-left-radius: 4px;
+              }
+              &:last-child {
+                border-top-right-radius: 4px;
+                border-bottom-right-radius: 4px;
+              }
+            }
+          }
+
+          a {
+            display: inline-block;
+            -webkit-transition: -webkit-transform 0.3s ease-out;
+            -moz-transition: -moz-transform 0.3s ease-out;
+            -o-transition: -o-transform 0.3s ease-out;
+            transition: transform 0.3s ease-out;
+            outline: 0;
+
+            &.rotate90 {
+              -webkit-transform: rotate(90deg);
+              -moz-transform: rotate(90deg);
+              -ms-transform: rotate(90deg);
+              -o-transform: rotate(90deg);
+              transform: rotate(90deg);
+            }
+          }
+        }
+        .hiddenRow {
+          display: none;
+
+          div {
+            overflow: hidden;
+            max-height: 0px;
+            -webkit-transition: max-height 1s ease-in-out;
+            -moz-transition: max-height 1s ease-in-out;
+            -o-transition: max-height 1s ease-in-out;
+            transition: max-height 1s ease-in-out;
+            padding: 6px 0;
+
+            .rowTitle {
+              margin-right: 2em;
+            }
+          }
+
+          &.showHiddenRow {
+            display: table-row;
+
+            div {
+              max-height: 40px;
+            }
+          }
+
+          hr { margin: 2px 0; }
+
+          > td {
+            text-align: left;
+            padding: 0 !important;
+          }
+
+        }
+      }
+
+      tr {
+        // border: solid 2px #323232; //_palette(border)
+        // border-left: 0;
+        // border-right: 0;
+      }
+
+      td {
+        padding: 0.75em 0.75em;
+        text-align: left;
+      }
+
+      th {
+        padding: 0.75em 0.75em;
+        // color: _palette(fg-bold);
+        font-size: 1em;
+        font-weight: bold; //_font(weight-bold);
+        // padding: 0 0.75em 0.75em 0.75em;
+        // text-align: left;
+        text-align: left;
+      }
+
+      thead {
+        border-bottom: solid 2px #323232; // _palette(border)
+        border-radius: 0;
+        background-color: none;
+      }
+
+      tfoot {
+        // border-top: solid 1px _palette(border);
+      }
+    }
+  }
+  #ticketDetails {
+    margin: 0;
+    width: 100%;
+    background-color: #383838;
+    border-radius: 0;
+    border-collapse: separate;
+    border-spacing: 0 1px;
+
+    tbody {
+      td {
+        &:first-child {
+          width: 280px;
+          white-space: nowrap;
+        }
+
+        .numbers {
+          display: flex;
+          align-items: center;
+          justify-content: space-around;
+
+          &.combo-bet {
+            // background-color: rgba(98,166,50,0.25);
+            display: table-cell;
+
+            br {
+              line-height: 2.5;
+            }
+          }
+        }
+
+        .fa-plus {
+          margin: 0 8px!important;
+        }
+      }
+    }
+  }
+
+  .text-right { text-align: right !important; }
+  .wide30 { width: 30% !important; }
+  .wide40 { width: 40% !important; }
+  .wide50 { width: 50% !important; }
+}
+
+#my-lottery-details {
+  margin-top: .75em;
+  margin-bottom: .75em;
+
+  #detailsTableWrapper {}
+
+  #ticketDetailsTable {
+    margin: 0;
+    width: 100%;
+    background-color: #222;
+    border-radius: 0;
+    border-collapse: separate;
+    border-spacing: 0 1px;
+
+    tbody {
+      tr {
+        border: solid 1px #323232;
+        font-size: 1em;
+        border-radius: 4px !important;
+        background-color: #222;
+
+        &:hover {
+          background-color: #222;
+          border-radius: 0px;
+          box-shadow: none;
+        }
+      }
+      td {
+        white-space: nowrap;
+
+        &:first-child, &:last-child {
+          width: 250px;
+        }
+
+        .numbers {
+          display: flex;
+          align-items: center;
+          justify-content: space-around;
+        }
+
+        .fa-plus {
+          margin: 0 8px!important;
+        }
+      }
+      // .drawNumbers {
+      //   width: 250px;
+      // }
+    }
+  }
+}
+
+@media screen and (max-width: 980px) {}
+@media screen and (max-width: 780px) {}
+@media screen and (max-width: 767px) {
+  #my-lottery {
+    padding: 0 .25em;
+
+    .lottery-tickets, .scratchcards {
+      overflow: overlay;
+      table {
+        white-space: nowrap;
+      }
+    }
+  }
+  #my-lottery-details {
+
+    #detailsTableWrapper {
+      overflow: overlay;
+      table {
+        white-space: nowrap;
+      }
+    }
+
+  }
+
+}
+@media screen and (max-width: 480px) {
+  #my-lottery {
+    padding: 0 .125em;
+  }
+}

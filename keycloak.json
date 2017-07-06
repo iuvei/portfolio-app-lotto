@@ -1,0 +1,8 @@
+{
+  "realm": "kc",
+  "url": "http://kc-auth-server/",
+  "clientId": "kc-clientid",
+  "credentials": {
+    "secret": "520c6893-3691-405a-87c9-1853502fd578"
+  }
+}

@@ -1,0 +1,21 @@
+onmouseover Event
+-----------------------------------------------------------------------------------------------
+
+1) hfg_htp_001.gif
+
+2) hfg_htp_002_.gif 
+ 
+-  onmouseover : hfg_htp_002.gif ; hfg_htp_003_.gif ; hfg_htp_004_.gif 
+-  onmouseOut  : hfg_htp_002_.gif 
+
+
+3) hfg_htp_003_.gif  
+
+-  onmouseover : hfg_htp_003.gif ; hfg_htp_002_.gif ; hfg_htp_004_.gif 
+-  onmouseOut  : hfg_htp_003_.gif  
+
+
+4) hfg_htp_004_.gif  
+
+-  onmouseover : hfg_htp_004.gif ; hfg_htp_002_.gif ; hfg_htp_003_.gif 
+-  onmouseOut  : hfg_htp_004_.gif  

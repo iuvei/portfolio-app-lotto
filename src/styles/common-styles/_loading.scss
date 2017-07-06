@@ -1,0 +1,237 @@
+$base-line-height: 24px;
+$white: rgb(255,255,255);
+$black: rgb(0,0,0);
+$off-white: rgba($white, 0.2);
+$off-black: rgba($black, 0.2);
+$spin-duration: 1s;
+$pulse-duration: 750ms;
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse {
+  50% {
+    background: $white;
+  }
+}
+
+@keyframes pulse-black {
+  50% {
+    background: $black;
+  }
+}
+
+// html {
+//   height: 100%;
+// }
+// body {
+//   @extend html;
+//   display: flex;
+//   justify-content: space-around;
+//   align-items: center;
+//   background: #333333;
+// }
+
+.loading {
+    border-radius: 50%;
+    width: $base-line-height;
+    height: $base-line-height;
+    border: .25rem solid $off-white;
+    border-top-color: $white;
+    animation: spin $spin-duration infinite linear;
+  &--double {
+    border-style: double;
+    border-width: .5rem;
+  }
+}
+
+
+
+.loading-pulse {
+  position: relative;
+  width: ($base-line-height / 4);
+  height: $base-line-height;
+  background: $off-white;
+  animation: pulse-white $pulse-duration infinite;
+  animation-delay: ($pulse-duration / 3);
+  &:before, &:after {
+    content: '';
+    position: absolute;
+    display: block;
+    height: ($base-line-height / 1.5);
+    width: ($base-line-height / 4);
+    background: $off-white;
+    top: 50%;
+    transform: translateY(-50%);
+    animation: pulse $pulse-duration infinite;
+  }
+  &:before {
+    left: -($base-line-height / 2);
+  }
+  &:after {
+    left: ($base-line-height / 2);
+    animation-delay: ($pulse-duration / 1.5);
+  }
+}
+
+.loading-black {
+    border-radius: 50%;
+    width: $base-line-height;
+    height: $base-line-height;
+    border: .25rem solid $off-black;
+    border-top-color: $black;
+    animation: spin $spin-duration infinite linear;
+  &--double {
+    border-style: double;
+    border-width: .5rem;
+  }
+}
+
+
+
+.loading-pulse-black {
+  position: relative;
+  width: ($base-line-height / 4);
+  height: $base-line-height;
+  background: $off-black;
+  animation: pulse-black $pulse-duration infinite;
+  animation-delay: ($pulse-duration / 3);
+  &:before, &:after {
+    content: '';
+    position: absolute;
+    display: block;
+    height: ($base-line-height / 1.5);
+    width: ($base-line-height / 4);
+    background: $off-black;
+    top: 50%;
+    transform: translateY(-50%);
+    animation: pulse-black $pulse-duration infinite;
+  }
+  &:before {
+    left: -($base-line-height / 2);
+  }
+  &:after {
+    left: ($base-line-height / 2);
+    animation-delay: ($pulse-duration / 1.5);
+  }
+}
+
+#draws {
+  margin: 0.5em 0;
+  overflow: auto;
+  max-height: (500px - 38px - 81px);
+
+  &.loading, &.loading-pulse {
+    line-height: inherit;
+    position: absolute;
+    left: 50%;
+
+    overflow: initial;
+
+  }
+}
+
+#game-listing {
+  &.loading-black, &.loading-pulse-black {
+    line-height: inherit;
+    position: absolute;
+    left: 50%;
+
+    overflow: initial;
+
+  }
+}
+
+.lottery-tickets {
+  &.loading, &.loading-pulse {
+    line-height: inherit;
+    position: absolute;
+    left: 50%;
+
+    overflow: initial;
+
+  }
+}
+
+#lotto-list {
+  &.loading, &.loading-pulse {
+    line-height: inherit;
+    position: absolute;
+    left: 50%;
+
+    overflow: initial;
+  }
+}
+
+#historyPreloader {
+  padding: 0;
+  &.loading-pulse {
+
+    line-height: inherit;
+    position: relative;
+    left: 50%;
+
+    overflow: initial;
+  }
+}
+
+.drawNumbersPreloader {
+  &.loading-pulse {
+
+    line-height: inherit;
+    position: relative;
+    left: 0%;
+
+    overflow: initial;
+  }
+}
+
+#depBankListPreloader, #wdrawBankListPreloader {
+  padding: 0;
+  display: none;
+  &.loading-pulse {
+
+    line-height: inherit;
+    position: relative;
+    left: 50%;
+
+    overflow: initial;
+  }
+}
+
+
+#getAjax {
+  position: absolute;
+}
+
+body.loading {
+  position: absolute;
+  // top: 50%;
+  left: 50%;
+  background: rgba(0, 0, 0, 0.5);
+
+  #app {display: none;}
+}
+
+#ferris-wheel-preloader {
+  position: absolute;
+  width: 200px;
+  top: 0; right: 0;
+  bottom: 0; left: 0;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top:25%;
+}
+
+@media screen and (max-width: 480px) {
+  svg#ferris-wheel-preloader{
+    margin-top:70%!important;
+  }
+}
+

@@ -1,0 +1,11 @@
+locale_id,page_id,key,translation
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,input.firstName,First Name
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,input.lastName,Last Name
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,input.accountNumber,Account Number
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,select.accountType.option1,Account Type
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,select.accountType.option2,Private Account
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,select.accountType.option3,Company Account
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,input.bankState,Bank State
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,input.bankCity,Bank City
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,input.bankBranch,Bank Branch
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,input.amount,The amount of

@@ -1,0 +1,363 @@
+// Casino specific styles
+.casino-play {
+  #casino-loading {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+  }
+  #side-loading {
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+  }
+  .game-container-casino {
+    min-height: 675px;
+    height: 84vh;
+    line-height: 675px;
+    padding: 0;
+    width: 100%;
+    background-color: #000; // rgba(0,0,0,0.5);
+    display: block;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    overflow: hidden;
+  }
+  .game-container-casino:fullscreen {
+    height: 75% !important;
+    width: 100% !important;
+    transform: scale(0.75);
+    -webkit-transform: scale(0.75);
+    zoom: 0.75;
+  }
+  .iframe-casino {
+    // min-height: 675px;
+    // height: 675px;
+    // line-height: 675px;
+    max-height: 1080px !important;
+    max-width: 950px !important;
+    text-align: center;
+    // overflow: hidden;
+    height: 100%;
+    width: 100%;
+    display: block;
+    position: relative;
+    z-index: 2;
+    margin: auto;
+    canvas {
+        text-align: center;
+    }
+  }
+  #heading-title {
+    // RNG
+    position: relative;
+    .how-to-play {
+      .row.uniform {
+        margin: 0.5em 0 0.5em;
+      }
+      section {}
+      .black-box {
+          img {}
+      }
+      p {}
+    }
+  }
+  .background {
+    background-image: url('../../images/bg_RNG.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-filter: blur(3px);
+    -moz-filter: blur(3px);
+    -o-filter: blur(3px);
+    -ms-filter: blur(3px);
+    filter: blur(3px);
+    margin: 0;
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    height: 102%;
+    width: 102%;
+    z-index: 0;
+  }
+  .game-play {
+    width: 80%;
+    // max-width: 80vw;
+    float: left;
+  }
+  .side-games {
+    width: 20%;
+    // max-width: 20vw;
+    float: right;
+    line-height: 15px;
+    background: transparent;
+    position: relative;
+    display: block;
+    text-align: center;
+    padding: 1em;
+    .row.uniform>* {
+      padding: 1em;
+    }
+    .title {
+      color: #b5d264;
+      font-size: 1em;
+      text-align: left;
+    }
+    .column1 {
+      width: 50%;
+      float: left;
+    }
+    .column2 {
+      width: 50%;
+      float: right;
+    }
+    .game-container {
+      display: -webkit-box;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      cursor: pointer;
+      width: 50%;
+    }
+    .game-item {
+      width: 70px !important;
+      height: 70px;
+      margin: auto;
+    }
+    .game-name {
+      font-size: 12px;
+      line-height: 15px;
+    }
+    .sidebar-games {
+      height: 150px;
+      margin: 10px 0;
+    }
+  }
+  // #one-col-row-box {
+  //   position: relative;
+  //   padding: 1em 0;
+  //   text-align: center;
+  //   margin-bottom: 0;
+  //   display: block;
+  //   background:transparent;
+  //   img {
+  //     width: 100%;
+  //     // max-width: 14em;
+  //     height: 50%;
+  //     // max-height: 14em;
+  //   }
+  // }
+}
+
+#fixed-sticky-fullscreen {
+  display: block;
+  a {
+    background: #323232;
+    font-size: 80%;
+    color: white;
+    padding: 0 0.5em;
+    outline: none;
+    text-decoration: none;
+    position: absolute;
+    top: 17rem;
+    right: -8px;
+    z-index: 999;
+    /*width: 136px;*/
+    height: 35px;
+    line-height: 25px;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    -webkit-transform-origin: 100% 100%;
+    -moz-transform-origin: 100% 100%;
+    transform-origin: 100% 100%;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    &:hover {
+      color: #FFF !important;
+    }
+  }
+}
+
+@media screen and (max-width: 1440px) {}
+
+@media screen and (max-width: 1280px) {
+  .how-to-play {
+    .black-box {
+      height: 160px;
+      max-height: 160px;
+      // width: 77px;
+      background-color: #000;
+      // display: table-cell;
+      img {
+        max-height: 160px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 980px) {}
+
+@media screen and (max-width: 780px) {
+  body {
+    overflow-x: scroll;
+  }
+  // .rng {
+  //   .game-container-casino {
+  //     padding: 0;
+  //     overflow-y: visible;
+  //   }
+  //   .iframe-rng {}
+  //   #heading-title {
+  //       // RNG
+  //     .how-to-play {
+  //       margin-top: .5em;
+  //       .row.uniform {
+  //         margin: 0.5em 0 0.5em;
+  //       }
+  //       section {
+  //         width: 100%;
+  //         display: table;
+  //         padding: 0.3em 0.25em 0 0.25em !important;
+  //       }
+  //       .black-box {
+  //         height: auto;
+  //         max-height: auto;
+  //         width: 100%;
+  //         background-color: #000;
+  //         display: table-row;
+  //         img {
+  //           max-height: 160px;
+  //         }
+  //       }
+  //       p {
+  //         margin: 4px auto 8px;
+  //         font-size: 10pt;
+  //         text-align: center;
+  //       }
+  //     }
+  //   }
+  //   .needToLogin {
+  //     font-size: 12pt;
+  //   }
+  // }
+  .casino-play {
+      .side-games {
+        width: 100% !important;
+        margin-bottom: 20px;
+        // visibility: hidden !important;
+        // display: none !important;
+        // .six-col-box {
+        //   width: 250px !important;
+        //   overflow-y: auto;
+        //   overflow-x: hidden;
+        //   transform: rotate(-90deg) translateY(-250deg);
+        // }
+        .game-container {
+          width: 100%;
+        }
+        .game-item {
+          width: 100px !important;
+          height: 100px;
+          margin: auto;
+        }
+      }
+      .game-play {
+        width: 100% !important;
+        height: 50% !important;
+        // max-width: 80vw;
+        float: none !important;
+      }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  body {
+      overflow-x: scroll;
+  }
+  // .rng {
+  //   .game-container-casino {
+  //     height: 100vh;
+  //   }
+  // }
+  #fixed-sticky-fullscreen {
+      // display: none !important;
+    a {
+      background: rgba(50, 50, 50, .7) !important;
+      font-size: 65%;
+      outline: 0;
+      top: 15rem;
+      right: -10px;
+    }
+  }
+  .casino-play {
+    .side-games {
+      width: 100% !important;
+      margin-bottom: 20px;
+      // visibility: hidden !important;
+      // display: none !important;
+      // .six-col-box {
+      //   width: 250px !important;
+      //   overflow-y: auto;
+      //   overflow-x: hidden;
+      //   transform: rotate(-90deg) translateY(-250deg);
+      // }
+      .game-container {
+        width: 100%;
+      }
+      .game-item {
+        width: 100px !important;
+        height: 100px;
+        margin: auto;
+      }
+    }
+    .game-play {
+      width: 100% !important;
+      height: 50% !important;
+      // max-width: 80vw;
+      float: none !important;
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+      overflow-x: scroll;
+  }
+  .casino-play {
+    .side-games {
+      display:none;
+      width: 100% !important;
+      margin-bottom: 20px;
+      // visibility: hidden !important;
+      // display: none !important;
+      // .six-col-box {
+      //   width: 250px !important;
+      //   overflow-y: auto;
+      //   overflow-x: hidden;
+      //   transform: rotate(-90deg) translateY(-250deg);
+      // }
+      .game-container {
+        width: 100%;
+      }
+      .game-item {
+        width: 100% !important;
+        height: 70px;
+        margin: auto;
+      }
+    }
+    .game-play {
+      width: 100% !important;
+      height: 50% !important;
+      // max-width: 80vw;
+      float: none !important;
+    }
+  }
+}

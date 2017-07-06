@@ -1,0 +1,37 @@
+// utility styles
+
+@mixin noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;           /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
+
+@mixin boxsizing($v) {
+  -moz-box-sizing: $v;
+  -webkit-box-sizing: $v;
+  box-sizing: $v;
+}
+
+@mixin transform($s) {
+  transform-origin: center center;
+  transform: $s;
+  -ms-transform: $s;
+  -webkit-transform-origin: center center;
+  -webkit-transform: $s;
+  -o-transform-origin: center center;
+  -o-transform: $s;
+  -moz-transform-origin: center center;
+  -moz-transform: $s;
+}
+
+@mixin gradiency($pos, $color1, $color2) {
+  background: $color1; /* Old browsers */
+  background: -moz-linear-gradient($pos,  $color1 0%, $color2 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient($pos,  $color1 0%, $color2 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient($pos,  $color1 0%, $color2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color1', endColorstr='$color2',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}

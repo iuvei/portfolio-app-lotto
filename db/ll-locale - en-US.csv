@@ -1,0 +1,797 @@
+locale_id,page_id,key,translation
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,navLink.LFG,LFG
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,navLink.HFG,HFG
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,navLink.RNG,RNG
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,navLink.CASINO,Casino Games
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,navLink.PROMOTIONS,Promotions
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,navLink.FAQ,FAQ
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,accountBalance,Balance
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,loginLabel,Sign-in / Sign-up
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,acctMenu.myAccount,My Account
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,acctMenu.accountSettings,Account Settings
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,acctMenu.myLottery,My Lottery
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,acctMenu.myPromotions,My Promotions
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,acctMenu.logout,Sign-out
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,footerLink.aboutUs,About Us
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,footerLink.privacyPolicy,Privacy
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,footerLink.termsAndCondition,Terms and Conditions
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,footerLink.playerProtection,Player Protection
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,footerLink.payouts,Payouts
+58a82d7ea5527676b47c8741,58a84670a5527676b47c8749,footerLink.contactUs,Contact Us
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,banner.nextDraw,Upcoming lottery
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,betNowButtonLabel,Bet now!
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,imageSlider.item1.title,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,imageSlider.item1.description,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,imageSlider.item2.title,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,imageSlider.item2.description,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,imageSlider.item3.title,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,imageSlider.item3.description,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game1.title,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game1.subtitle,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game1.link,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game2.title,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game2.subtitle,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game2.link,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game3.title,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game3.subtitle,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game3.link,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game4.title,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game4.subtitle,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,gameBoxes.game4.link,
+58a82d7ea5527676b47c8741,58a84651a5527676b47c8743,casinoModalDialog.title,{casinoGameName} - Play for fun
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,heading.title,Lotto Park
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,heading.subtitle,The next billionaire is you!
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,heading.sortLabel,Sort by
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,sortByValue1,Please select
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,sortByValue2,Name
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,sortByValue3,Jackpot Prize
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,sortByValue4,Draw Date
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,comingSoonText,Coming Soon
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betNowButtonLabel,Bet now!
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,heading.jackpot,Jackpot
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,heading.currency,$
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,timer.title,Draw Countdown
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,timer.daysLeft,Day(s)
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,timer.hoursLeft,Hour(s)
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,timer.minutesLeft,Min(s)
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,timer.secondsLeft,Sec(s)
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.drawDay.label,Draw bet on
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.betDuration.label,Duration
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.betDuration.duration1.label,Duration
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.betDuration.duration1.checkbox,Sub.
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.betDuration.duration2.label,Hunt
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.deferredPlayLabel,Place bet when...
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.minJackpotCheckbox,When jackpot is
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.firstDrawLabel,(1st) Draw
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.doubleJackpot.label,Double Your Jackpot
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.doubleJackpot.confirm1,Yes
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.doubleJackpot.confirm2,No
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.powerPlay,PowerPlay
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betConfig.megaPlier,MegaPlier
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betSlip.forLabel,for
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betSlip.pickMore,Pick {pickCount} number/s more
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betSlip.systemLabel,System
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betSlip.autoPickBtnLabel,Auto Pick
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betSlip.numberShieldBtnLabel,NumberShield
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betSlip.clearBtnLabel,Clear
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,betSlip.submitBtnLabel,Submit
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,checkoutSlip.quickPickLabel,Quick Pick
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,checkoutSlip.shieldAllLabel,Shield All
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,checkoutSlip.subTotal,Stake
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,checkoutSlip.checkOutBtnLabel,Checkout
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,howToPlay.title,How to Play
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,drawHistory.title,Results
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,drawHistory.resultNumbers,{lotteryName} Draw Numbers
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,drawHistory.table.col1Title,Prize Rank
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,drawHistory.table.col2Title,"In the 5 general number, 2 special number"
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,drawHistory.table.col3Title,{count} people winning
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,drawHistory.table.col4Title,Bonus
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,heading.title,Thank you for your bet
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,summary.h2,Good luck! Click here to view you bets.
+58a82d7ea5527676b47c8741,58a84656a5527676b47c8744,summary.h4,"While waiting for the lotto draw, why not try other fun games?"
+58a82d7ea5527676b47c8741,58a8465ea5527676b47c8746,htp.title,How To Play
+58a82d7ea5527676b47c8741,58a8465ea5527676b47c8746,htp.description1,"1. Bet on Spot or Results Options
+- Use roadmap for reference; pick a spot/results bet option and place bet"
+58a82d7ea5527676b47c8741,58a8465ea5527676b47c8746,htp.description2,"2. Bet on Number Options
+- Pick numbers first, adjust range selector and then place bet"
+58a82d7ea5527676b47c8741,58a8465ea5527676b47c8746,htp.description3,"3. Number Combo bet
+- Click combo bet to place multiple bets at once"
+58a82d7ea5527676b47c8741,58a8465ea5527676b47c8746,htp.description4,"4. Game Results
+- Display game results and you win!"
+58a82d7ea5527676b47c8741,58a8465ea5527676b47c8746,needToLogin,Please login to play the game.
+58a82d7ea5527676b47c8741,58a84659a5527676b47c8745,htp.title,How To Play
+58a82d7ea5527676b47c8741,58a84659a5527676b47c8745,htp.description1,"1. Bet on Results Options
+- Pick bet options, and then place bet"
+58a82d7ea5527676b47c8741,58a84659a5527676b47c8745,htp.description2,"2. Bet on Number Options
+- Pick one or multiple numbers, and then place bet"
+58a82d7ea5527676b47c8741,58a84659a5527676b47c8745,htp.description3,"3. Quick, exciting gameplay with auto bet feature
+- Choose game duration, enter stake, and then choose bet to bet one time, or auto bet to bet multiple times"
+58a82d7ea5527676b47c8741,58a84659a5527676b47c8745,htp.description4,"4. Display game results and you win!
+- Display game results and win results on screen"
+58a82d7ea5527676b47c8741,58a84659a5527676b47c8745,needToLogin,Please login to play the game.
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,heading.title,Casino games!
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,heading.subtitle,
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,heading.gameFilter1,All games
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,heading.gameFilter2,New games
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,heading.gameFilter3,Slot machines
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,heading.gameFilter4,Live casino games
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,heading.sortLabel,Sort by
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,sortByValue1,Please select
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,sortByValue2,Category
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,sortByValue3,Name
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,casinoModalDialog.title,{casinoGameName} - Play for fun
+58a82d7ea5527676b47c8741,58a84cf6a5527676b47c874a,sideGames.title,More games!
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,heading.title,Promotions
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promo.title,Stored value of 50 to send 15
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promo.leftLink,Demo
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promo.rightLink,Demo
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promo.playBtnLabel,Play now!
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promo.redeemBtnLabel,Redeem
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promoDetails.title,
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promoDetails.description,
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promoDetails.playBtnLabel,Play now!
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promoDetails.redeemBtnLabel,Redeem
+58a82d7ea5527676b47c8741,58a84cfea5527676b47c874b,promoDetails.link,
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,heading.title,My Account
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,accountStat.casinoBalance,Casino Balance
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,accountStat.loyaltyBonus,Loyalty Bonus
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,accountStat.accountBalance,Available Balance
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.tab1.title,Deposit
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.tab2.title,Withdrawal
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.tab3.title,Bank Transfer
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.tab1.paymentMethodTitle,Select payment method
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.tab1.paymentBoxTitle,Enter Amount and Select Bank
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.tab1.selectBank,Select Bank
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.alertMessage,Amount should be greater than 0
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.nextBtnLabel,Next
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.backBtnLabel,Back
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.depositConfirmation,You are about to deposit the amount {amount}
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.depositConfirmBtnLabel,Confirm
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.filloutPaymentInfo,Fill out your payment information
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.withdrawalConfirmation,You are about to withdraw the amount {amount}
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.withdrawalConfirmBtnLabel,Confirm
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.transferFromWallet,From Wallet
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,cashier.transferToWallet,To Wallet
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.boxTitle,Transactions History
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.col1.title,Transaction Date
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.col2.title,Transaction Name
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.col3.title,Transaction Type
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.col4.title,Transaction Amount
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.type1,Debit
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.type2,Credit
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.type3,Transfer
+58a82d7ea5527676b47c8741,58a84d14a5527676b47c874c,transactions.type4,Withdraw
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,heading.title,Account Settings
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,acctSetting.tab1.title,Personal Information
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,acctSetting.tab2.title,Account Settings
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.username,Username
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.email,Email Address
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.firstName,First Name
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.lastName,Last Name
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.address,Address
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.city,City
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.province,Province
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.zipCode,Postal Code
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab1.saveBtnLabel,Save
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.accountStatus,Account status
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.emailNotificationSetting,Email notification settings
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.emailFullNotification,Email Full Notification
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.emailNotificationDesc,"Will receive all the emails from Lottoland, including advertising, betting items, and lottery results"
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.bettingLimitSetting,Betting Limit Setting
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.bettingLimitDesc,No betting limit
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.deleteAccountBtnLabel,Delete the account
+58a82d7ea5527676b47c8741,58a84d21a5527676b47c874d,tab2.saveBtnLabel,Save
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,heading.title,My Lottery
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,myLottery.tab1.title,Lottery tickets
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticketsTable.col1.title,Ticket Number
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticketsTable.col2.title,Bet Date
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticketsTable.col3.title,Lotto Name
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticket.betDuration,Single Bet
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticket.betStatus1,Winning
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticket.betStatus2,Not winning
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticket.detailsLink,Details
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,ticket.playAgainLink,Play again
+58a82d7ea5527676b47c8741,58a84d33a5527676b47c874e,tab1.oldRecordsLink,Older records
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,heading.title,Background Reading
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.title,Privacy Policy
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.heading.title,私隐条约
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content1.heading,本隐私声明解释了我们(Lottoland Ltd.)从您那里收集的个人信息内容，我们将如何使用和处理这些信息，是否会向任何人披露这些信息，以及您可选的我们对您个人信息的处理方式。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content1.p1,请仔细阅读本隐私条例。如果您对本隐私条例持不同意见或有任何疑问，请勿注册或使用本网站。本隐私条例中使用的术语与条例和细则中的术语含义相同，并无不同的定义。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content2.heading,个人数据
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content2.p1,请仔细阅读本隐私条例。如果您对本隐私条例持不同意见或有任何疑问，请勿注册或使用本网站。本隐私条例中使用的术语与条例和细则中的术语含义相同，并无不同的定义。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content2.p2,我们可能会在注册过程中验证您提供的姓名、出生日期、住址或其他个人信息。我们会根据相关的法定条文保护您的利益。一旦您注册并打开的玩家账号，则表示您认可并接受本条款现有内容，并同意我们验证您个人信息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content2.p3,为管理我们提供的服务和处理您的订单 – 生成玩家的投注，进行付款，正确地支付奖金，保护您和我们(包括子公司和/或附属公司)免受欺诈，提供客户支持 – 以及本隐私条例和Lottoland条款和细则中提及的其他目的，我们将收集、传递、使用、储存并处理下列所有关于您的正式身份证明文件的副本(或可能需要您以后提供)：您的个人数据，包括姓名、出生日期、住址、电子邮件、电话号码、付款方式详情及其他信息或身份证明。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content2.p4,除了某些特殊情况，这些个人数据不会被转交，必要时您的身份证件会转移到多家公司，用于激活您的用户数据或启动关联您的奖金的保险。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content3.heading,Google分析
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content3.p1,本网站使用“Google Analytics(分析)”，这是一项由Google Inc.(“Google”)提供的网络分析服务。Google Analytics(分析)使用“Cookies”(放置在您的电脑上的文本文件)来协助网站分析其用户使用该网站的习惯。Cookie生成的关于您使用本网站的信息(包括您的IP地址)将被上传到Google并储存在位于美国的服务器中。通过一个称为“屏蔽IP”的方法，使用Google Analytics(分析)的网站所有人可以选择指令Google Analytics(分析)缩短欧盟地区或欧洲经济区协议的其他成员国的IP地址，以使用一部分而不是整个IP地址。只有在特殊情况下，完整的IP地址才会上传到位于美国的Google服务器，并亦会在服务器中被缩短。Google将使用此信息来评估您使用本网站的习惯，给网站运营商提供网站行为报告，以及提供与网站行为以及使用互联网有关的其他服务。Google不会将您的IP地址与Google持有的任何其他数据相关联。您可以通过设置浏览器来拒绝使用Cookies，但需注意，如果您选择这样做，您可能无法顺利使用本网站的完整功能。此外，您可以下载并安装以下网址的浏览器插件以阻止Google获取有关您使用本网站的Cookies和相关数据(包括您的IP地址)，以及Google处理您的数据所产生的信息：https://tools.google.com/dlpage/gaoptout?hl=en。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content4.heading,Google分析
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content4.p1,收集和传输信息：按下Google +1按钮，您就可以向全球发布信息。使用Google +1，您和其他用户会收到来自Google和我们的合作伙伴为您定制的个性化内容。Google会储存您设其内容为+1的资讯，以及您点击+1时浏览的网页相关信息。您点击+1，可能会与您的在Google服务器中的账户名和照片关联共用，例如搜索结果和Google个人资料。Google会记录您的+1行为的相关信息，以便为您和他人改善Goggle的服务。如需使用Google +1按钮，您需要一个全球范围内可见的公开的Google个人档案，其中必须至少包含您为您的个人档案选择的名字。这个名字会应用于所有Google服务。在某些情况下，这个名字还可以替换您通过Google账户共享信息是使用的其他任何名字。其他用户得知您的邮箱地址或其他关于您的身份信息时，则该用户可以看见您的Google个人资料内含的身份信息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content4.p2,收集到的信息的作用：除了上述用途外，您提供的信息将根据适合的Google隐私条例使用。Google可能会发布有关用户+1行为的汇总统计，或将此报告转递给第三方，例如出版社、广告商或链接的网站。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content5.heading,Cookies
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content5.p1,为了在您访问本网站时启用某些功能，我们在多个网页上都会使用cookies。Cookies是储存在您的设备中的小型文本文件。我们会使用您浏览网页一段时间后删除的某些cookies(阶段cookies)。其他cookies则会保留在您的设备中，并由我们的合作伙伴和本网站读取我们写入到该文件的信息。第二种cookies类型是由我们在您下次访问我们的网站时阅读(永久性cookies)。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content5.p2,您可以设置您的浏览器，以便每次有网站尝试向您的设备写入cookies时，您都会收到通知。此外，您可以决定接受或拒绝每个单一的cookie，或列出特殊名单。如果您选择不接受本网站的部分或全部cookies，您的设备可能会无法自动修复本网站的某些受损功能。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content6.heading,广告
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content6.p1,您完全可以自行决定我们如何使用您的个人数据以宣传我们的产品和服务。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content6.p2,通知：我们将向您发送我们认为可能对您有益的产品及服务的相关通知。每一个通知都包含如何取消订阅我们的通知的方法 – 您可以在您的玩家账号中管理通知设置，并随时撤销您的授权。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content7.heading,邮件
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content7.p1,请注意，我们可能会向您发送以下重要邮件：有关您使用本网站、本网站提供的产品和服务、技术更新或因遵守我们的法律或监管职责而产生的事务(此为系统自动生成邮件)，例如确认注册、确认订单或获奖通知。系统生成的电子邮件是网站及其服务的一个组成部分，不得取消，除非您的玩家账户已取消或终止。所有电子邮件将发送到您提供给我们的邮箱地址。请确保我们收到的电子邮件地址是最新的，且您拥有完整的访问权限。如果您更改电子邮件地址，则必须通过玩家账号通知我们新的地址。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content7.p2,我们会采取恰当的技术和有组织性的措施来抵御非官方或非法使用您的个人数据的行为，防止数据意外丢失或被破坏，或损毁。所有相应的防卫数据库的措施都一直有专人监管。然而，我们仅对条款和细则中规定的重大疏忽事件造成的保密失误负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content7.p3,我们要求您妥善保管您的玩家姓名、玩家账号号码以及您的登陆密码。您个人对您的玩家账号发生的一切行为负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content8.heading,编码
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content8.p1,您在线交易期间，您的个人数据会始终加密传送。SSL技术可以自动对本网站处理的所有数据加密(加扰乱信息)。您的数据，包括信用卡和付款方式详情，都将转换成需要密钥或密码才能解密使用的代码。您的浏览器通过在浏览器窗口下方显示“挂锁”或“键”图标来显示其安全性能。如果您的浏览器进行了相应的配置，本网站将在您第一次访问时提醒您。这表明您的数据使安全的，受本网站保护。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content9.heading,数据传输
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content9.p1,我们只会在提供产品或服务期间认为有必要时，或根据相关法律要求，保留您的个人数据。除上述情况外，我们不会在与其他企业合作的情况下将您的个人数据传输或披露给第三方，以进行预测或销售或其他转让整个业务或部分业务的行为，除非法律要求或收到由执法机构或政府官方出具的有效的法律请求，我们不得不执行。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content9.p2,我们可能会随时更新本隐私条例。在此情况下，我们将在本网站公布最新版本。新版的隐私条例在本网站发布后即时生效(或本网站公布的任何时间点)。您有责任了解本隐私条例的最新版本。您有权随时检查您免费提供给我们的个人数据。此外，您可以要求我们进行必要的更改以确保您的数据正确并为最新。如有需要检查、更改、删除或更正您的个人信息和联系方式，请登录您的玩家账号。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content10.heading,向监管及执法机构提供数据
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab1.content10.p1,Lottoland致力于执行反欺诈和洗钱法，以遵守我们的企业许可证中列明的条款和细则。如果我们有合理理由相信您或其他人通过您的玩家账号涉及欺诈或洗钱等任何违法行为，我们有权自行决定向相关监管机构或法定机构举报您的个人信息：包括涉及到英国赌博法案2005，或其他相关法律，或其他行为守则所规定的违法行为，包括违反许可证条款的行为或我们怀疑监管机构会对此作相应的作废您的投注的命令等行为。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.title,Terms and Conditions
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.heading.title,Lottoland条款与规则
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content1.p1,最后更新：2016年10月1日
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content1.p2,（请留意：中文翻译仅作参考，具体执行按照英文原文为准。）
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content2.heading,前言
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content2.p1,在使用Lottoland前，请您务必仔细阅读本声明。玩家可以在网站首页或者登陆账号获取本网站的条款和细则以及隐私政策。条款和细则以及隐私政策在本网站发布，并可能随时更改。新的条款和细则将在您下一次浏览或登陆本网站时立即生效。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content2.p2,新的条款和细则将在您下一次浏览或登陆本网站时立即生效，或会在通知栏内发布。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content2.p3,玩家可以在本网站：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content2.p3.div1,a.投注官方或国营彩票，例如全美MUSL Powerball，泛欧LAE Euromillions等
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content2.p3.div2,"b.参与由EU Lotto, MicroGaming, NetEnt, Playtech, IsoftBet, BetSoft, Asia Gaming 和Gold Deluxe运营的即开型游戏"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.heading,声明人
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.p1,“EU Lotto”- EU Lotto是一家获直布罗陀政府官方批准经营的博彩业公司（执照号RGL 066），并获英国博彩委员会批准拟定通用远程博彩标准，执照号38991，可以开展真实的博彩活动。EU Lotto的企业注册号为109514(REID GICO 109514-83)
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.p2,"“Lottoland”- Lottoland是一家与公司注册处合作成立的企业（企业注册号为109495），位于直布罗陀（注册地址：Office Suite A, Ocean Village Promenade, Gibraltar）。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.p3,Lottoand和EU Lotto的职责
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.p4,Lottoand负责本网站的维护，管理玩家账号，监督EU Lotto公司的彩票的投注结果、对即开型游戏（详见前言b）的投注结果，根据网站条款及细则跟进玩家对EU Lotto的投注以及EU Lotto应付给玩家的奖金。在直布罗陀进行的投注，Lottoand以玩家的名义或代表玩家行事。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.p5,EU Lotto作为庄家，设定赔率并计算奖金，承担应付奖金并在直布罗陀支付奖金到Lottoand，由Lottoand分发奖金给各个中奖玩家。通过多种完整的对冲方式和工具，EU Lotto保证支付本网站所有应付的奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.p6.div1,a.当玩家投注彩票时，玩家授权Lottoand代表自己押注EU Lotto的彩票。相对于玩家，EU Lotto为庄家。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content3.p6.div2,b.当玩家参与EU Lotto的即开型游戏，玩家授权Lottoand购买EU Lotto的即开型游戏。对于玩家，Lottoand为即开型游戏中介，EU Lotto为即开型游戏操手。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content4.heading,合同 - 投注彩票
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content4.p1,当投注彩票时，玩家涉及两份合同：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content4.p1.div1,a.当注册账号或投注时，玩家涉及与Lottoand关于使用本网站、建立并管理玩家账号、代表玩家在直布罗陀投注EU Lotto彩票、支付玩家押到EU Lotto的赌注、收取EU Lotto支付的奖金等在直布罗陀境内发生的事项的合同。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content4.p1.div2,b.当Lottoand代表玩家投注EU Lotto时，玩家涉及一份与EU Lotto的合同。合同规定的条款和细则适用于所有投注、EU Lotto提供的各种游戏的规则以及奖金的支付。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content5.heading,合同 - 即开型游戏
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content5.p1,购买即开型游戏时，玩家涉及两份合同：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content5.p1.div1,a.当注册或下即开型游戏单时，玩家涉及一个与Lottoand关于使用本网站、家里和管理玩家账号、代表玩家在EU Lotto参与即开型游戏、支付EU Lotto规定的费用以及收取相应奖金的合同。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content5.p1.div2,b.参与即开型游戏，即玩家向EU Lotto购买一个赢得奖金的机会，对应的奖金由EU Lotto承担。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content5.heading,投注和费用
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content5.p1,玩家所有关于投注或参与即开型游戏的费用包括两部分：(1)净投注额，用于投注或参与即开型游戏。此费用总和全部由EU Lotto收取并全部通过Lottoand支付给EU Lotto。(2)中介费(如有)，即付给Lottoand的服务费。中介费可能是固定数额，亦可能是赌注的固定比例。投注额由净投注额和中介费组成。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.heading,条款和细则的构成
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p1,第一部分包括约定玩家和Lottoland之间的法律关系的合同条款。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p2,第二部分包括约定玩家和EU Lotto之间的法律关系的合同条款。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p3,第二部分包括约定玩家和EU Lotto之间的法律关系的合同条款。 第三部分适用于玩家和Lottoand之间的合同以及玩家与EU Lotto之间的合同。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p4,定义
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p5,“银行账户” - 由玩家提供的商业信贷机构账户，并与玩家账户关联。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p6,“银行卡” - 预付、存款、取款卡或其他可支付的卡 - 并/或 带有透支功能，用作一种支付方式。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p7,“投注”- 对一个存在事实的投注，例如一张彩票，直接或间接在网站投注，或通过网络、电话或其他方式投注。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p8,“Caixa”或“Caixa Econômica Federal”- 经营巴西官方彩票Mega-Sena(“Caixa Mega Sena”)以及Quina(“Caixa Quina”)的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p9,“Camelot Group”或“CG”- 经营英国国家彩票(“英国国家彩票”)的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p10,“DLTB” – “Deutscher Lotto-und Totoblock” 的成员，负责组织或辅助官方开奖，包括德国乐透（也称“DLTB Lotto 6 aus 49” 或 „德国乐透“）七七出彩 (也称“DLTB Spiel 77”），超级6（也称 „DLTB Super 6“），幸运螺旋（也称 “DLTB Glücksspirale”）和欧洲超级乐透（也称„DLTB Euro Jackpot“) 。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p11,“双倍彩池”- 玩家可加选于所购的虚拟彩票，会让玩家的奖金总额翻倍。一张虚拟彩票只可加选双倍彩池或号码独赢其中之一。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p12,“EU Lotto”- EU Lotto是一家获直布罗陀政府官方批准经营的博彩业公司（执照号RGL 066），并获英国博彩委员会批准拟定通用远程博彩标准，执照号38991，可以开展真实的博彩活动。EU Lotto的企业注册号为109514(REID GICO 109514-83)
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p13,“EU Lotto的中奖投注”- EU Lotto一款游戏的奖金，玩家直接或间接通过网络、电话或其他方式成功提交并由Lottoand代表下注，也包括由第三方作中介并代表玩家下注而赢得的奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p14,"“黑名单”- 近期被FATF列入威胁国际金融系统的任何一个国家的居民或公民。2016年六月已公布该名单：http://www.fatf-gafi.org/publications/high-riskandnon-cooperativejurisdictions/documents/fatf-compliance-june-2016.html； 在HMRC制裁名单中的人, 2015年十月已公布该名单：http://hmt-sanctions.s3.amazonaws.com/sanctionsconlist.htm；以及所有美国居民。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p15,“FDJ”或“La Française des Jeux”- 经营法国国家彩票(“FDJ Loto”)的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p16,“HKJC Lotteries Limited”或“HKJC”- 彩票机构，经营“香港六合彩”(也称“HKJC Mark Six”)彩票。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p17,“即开型游戏”- 计算机随机选出的数字组合游戏，由EU Lotto运作，例如刮刮卡游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p18,“头奖”- 在一个赌局中，由Lottoland得到关于相关奖项类别的最高彩票奖金或由此得到的非双倍奖池奖金总和，如果是即开型游戏，则是公布的最高级别奖金的总和。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p19,“Loterías y Apuestas del Estado”或“LAE”- 经营或合作经营西班牙国家彩票西班牙圣诞乐透（“LAE Lotería de Navidad”），欧洲百万彩票（“LAE Euromillions”）以及西班牙乐透（“LAE El Gordo de la Primitiva”）。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p20,"“Lottoland”对非澳大利亚籍玩家开放 - Lottoland Ltd是一家与公司注册处合作开设并经营的公司(注册号109495)，位于直布罗陀（注册地址：Office Suite A, Ocean Village Promenade, Gibraltar）。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p21,“Lottoand - 特别头奖”或“特别头奖”- 由Lottoland代EU Lotto对外公布其的一款游戏在最高奖金类别中的最高奖金金额(非“双倍彩池”)，奖金总额可能比公布的相关类别彩票的头奖还高。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p22,“MUSL”- 多州乐透协会，是经营美国强力球(“MUSL Powerball”)和美国超级乐透(“MUSL Mega Mollions”)。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p23,“New York State Gaming Commission”或“NYSGC”- 经营“终生现金彩”彩票的机构(“NYSGC Cash 4 Life”)。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p24,“New South Wales Lotteries” or “NSW”- 经营或合作经营澳洲一三彩票(“NSW 澳洲一三 Lotto”)、澳洲乐透(“NSW 澳洲乐透”)、澳洲强力球(“NSW 澳洲强力球”)以及澳洲周六彩(“NSW 澳洲周六彩”)彩票的澳洲机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p25,“号码独赢”- 玩家可选的附加项，用于加注虚拟彩票，保证其他玩家获奖的情况下，该玩家的本金不会被奖池划分出来。如果只有一张虚拟彩票，玩家只能参加号码独赢。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p26,“&Ouml;LG”或“&Ouml;sterreichische Lotterien Gesellschaft”- 经营奥地利国家彩票奥地利乐透(“OLG Lotto 6 aus 45”)和Joker(“OLG Joker”)的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p27,“Pay Out”- EU Lotto公司的一款游戏中，玩家投注后的赢奖彩票所对应的将付奖金或已付的奖金金额。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p28,“玩家”- 在本网站注册账号的用户。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p29,“玩家账号”- 玩家在本网站创建的账号，通过此账号在本网站投注以及玩刮刮卡游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p30,“彩票号码”- 虚拟彩票上所注明或登记的号码。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p31,“Premier Lotteries Ireland”或“PLI”- 经营爱尔兰国家彩票爱尔兰乐透(“PLI Lotto”)、爱乐＋ 1(“Irish Lotto Plus 1”)和爱乐＋2(“Irish Lotto Plus 2”)的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p32,“隐私条例”- Lottoland制定及公布的关于使用和存档用户个人信息的政策，在网站条例和细则中也有列明。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p33,“奖项类别”或“奖级”- 和开奖结果相符的号码(包括星号、欧洲号码、强力球号、超级号、红利号和/或其他种类的特别号码)，所对应的EU Lotto游戏的奖级别，根据官方乐透开奖公布结果。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p34,“Sisal”- 经营意大利国家彩票意大利乐透(“Sisal Enalotto”)的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p35,“投注额”- 玩家购买一个赌局的虚拟彩票的下注总额，包括所有服务费；或玩家购买一张或多张刮刮卡的总金额，包括所有服务费。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p36,“Svenska Spel”- 经营瑞典国家彩票瑞瑞店乐透 1(“Svenska Spel Lotto 1”)、瑞典乐透2(“Svenska Spel Lotto 2”)、瑞乐(“Svenska Spel Till&auml;ggsspel”)和梦想成真(“Svenska Spel Dr&ouml;mvinsten”)。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p37,“Totalizator Sportowy”- 经营波兰国家彩票波兰乐透(“TS Lotto”)、波兰基诺(“TS Multi Multi”)和波兰天天彩(“TS Mini Lotto”)的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p38,“A类别奖金级别”- A类奖金级别，根据在EU Lotto公司的游戏介绍的说明，给玩家的赔付金额由玩家对EU Lotto的下注奖金和其相关官方彩票对应的所在奖项类别。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p39,“B类别奖金级别”- B类奖金级别，根据在EU Lotto公司的游戏介绍的说明，给玩家的赔付金额由玩家对EU Lotto的下注奖金和其相关官方彩票对应的所在奖项类别。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p40,“C类别奖金级别”- C类奖金级别， 根据在EU Lotto公司的游戏介绍的说明，给玩家的赔付金额由玩家对EU Lotto的下注奖金和其相关官方彩票对应的所在奖项类别。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p41,“官方彩票”- EU Lotto公司提供投注的彩票蓝本。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p42,“官方彩票头奖”- 官方彩票运营商应付的关于其公司所有的A类和B类投注的累计金额，由官方彩票运营商公布，或如果官方彩票运营商方面没有中奖彩票公布，并在我们的玩家投注中出现头奖彩票，则奖金将按照官方彩票运营商在有中奖者的情况下的奖金分配金额支付。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p43,“官方彩票运营商”- 经营或合作经营官方彩票的机构。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p44,“虚拟彩票”- 在本网站的赌局游戏中使用的电子彩票。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p45,"“本网站”- Lottoland的互联网入口：www.Lottoland.tld，包括联合或移动网站，在相同及不同的域名，或相同及不同的商标都由Lottoland管理，所有Lottoland(*.Lottoland.tld)管理的子域或顶层域名(www.Lottoland,*)，如www.Lottoland.com等，由Lottoland在第三方网页及相关移动电话应用中开发的所有类似的互联网产品。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p46,“奖金”- 即应付给赢得EU Lotto投注的玩家的奖励，或在即开型游戏赢得的奖励。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p47,条款和细则中所有和玩家或投注有关的项目，除非另有规定，都适用于在直布罗陀境内Lottoand以玩家的名义，代表玩家向EU Lotto投注的行为。除非规则清晰地列明有不同的解释，否则同一意思的所有不同的表达都视为一致。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p48,第一部分 - Lottoland特定的条款和细则
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p49,玩家
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p50,1.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51,玩家理解并同意：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li1,已阅读并理解本网站所列的条款和细则；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li2,已年满18周岁(严禁未成年人参与博彩)；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li3,本网站并不能保证玩家的每一次网络投注委托成功；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li4,玩家存入本网站的款项并非非法所得；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li5,玩家应缴纳奖金对应的税款；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li6,玩家并无被列入黑名单；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li7,参与投注或即开型游戏的玩家并非Lottoand或EU Lotto或Lottoand集团属下分公司的责任人、高级职员或雇员(或其配偶或家属)，亦并非Lottoand集团的承包商或服务供应商中受Lottoand认定为敏感职位的人员；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li8,玩家并非受法定机构限制行为之人；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p51.ul.li9,玩家在Lottoland仅有一个账号
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p52,当玩家被Lottoland发现有以下任何一种情况时，Lottoland有权作废玩家的投注或参与的即开型游戏(为了保证公平公正，本条款包括当玩家未违反任何规定情况下投注并获得相应奖金时)：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p53,1.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p54,玩家在本网站注册账号后才能获得我们的所有服务、投注或参与即开型游戏。Lottoland保留拒绝服务任何不提供完整注册信息的个人的权利。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p55,1.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p56,玩家在注册、投注或收取奖金时，可能会需要提供以下数据：姓名、居住地址、性别、出生日期、邮箱、移动电话号码、支付方式等其他相关或必要的信息，以获得Lottoland的服务。玩家提供以上信息，则默认玩家授权Lottoland直接或通过特定的第三方对其提供的信息作验证，包括验证玩家的年龄。Lottoland对由于玩家未提供相关信息，或提供丢失、不正确、不完整或过期的数据而造成的奖金支付失败不负责。Lottoland没有义务验证玩家提供的任何信息，或联系玩家更改或完善不完整、不正确的个人信息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p57,1.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p58,玩家应确保注册和支付时提供信息细节是完整、准确、无被窃或丢失的。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p59,1.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p60,若玩家关联在本网站的银行卡等支付方式遗失、冻结或被窃，玩家应立即通知Lottoland；若玩家提交相关的密码或隐私信息给第三方，本条款同样适用。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p61,1.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p62,玩家更改个人信息后，包括但不限于银行卡以及银行账号等，应通知Lottoland以更新玩家的账号。因支付数据泄露而造成的损失，Lottoland可以不承担赔偿责任。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p63,2.玩家账号
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p64,2.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p65,玩家提供邮箱及密码以注册玩家账号。玩家可以通过账号在任何时候自行管理他们的信息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p66,2.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p67,一位玩家只能注册一个账号。如果玩家注册了多一个账号，或登陆多个账号，Lottoand有权自行决定关闭所有账号而不通知玩家。Lottoand有权通知EU Lotto，根据EU Lotto的条款和细则，作废该玩家所有账号的投注或即开型游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p68,2.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p69,Lottoland有权自行决定在特定时间段内，特定玩家的存款和投注的最高值和最低值。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p70,2.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p71,玩家应妥善保管其账号(玩家密码、账号和密码等)，以防被盗。玩家对其账号的所有行为和交易负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p72,2.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p73,玩家无权授予第三方访问其账号的权限，也无权使用第三方的玩家账号。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p74,2.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p75,玩家应向Lottoland举报涉嫌诈骗或非法使用他们的玩家账号的不法分子，并采取适当的措施妥善解决，例如修改玩家账号密码。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p76,2.7.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p77,玩家可以锁定其账号(“冻结”或“自我驱逐”)。冻结或自我驱逐的申请需要分别使用本网站“我的账户”中不同的功能。玩家可以指定冻结或自我驱逐的时间。自我驱逐的前提是玩家账号并非处于开放或投注状态。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p78,2.8.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p79,重开已被自我驱逐的玩家账号仅在自我驱逐期结束后申请。申请重开账号，玩家必须联系Lottoland的客服热线。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p80,2.9.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p81,玩家可以通过“我的账号”中的功能或联系Lottoland客服，暂时关闭其在本网站账号。关闭玩家账号的前提是该账号并非处于开放或投注状态。如玩家关闭其账号，Lottoland允许玩家重新申请一个账号。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p82,2.10.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p83,玩家可以在“我的投注”查看他们的投注情况及参与的即开型游戏。Lottoland仅接受有标注“进行中”标签的彩票，或具有相同含义的情况。通过邮箱接收的投注确认通知或提交确认，或具有相同含义的情况，仅代表Lottoland以接到投注的订单，不代表投注已接收委托。只有当标注“进行中”的时候，才可视Lottoland已收到投注委托。如Lottoland无接受玩家的投注，将会退款给玩家。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p84,3.投注
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p85,3.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p86,玩家通过在网站填写并提交虚拟彩票，授权Lottoand代表他们投注EU Lotto的彩票。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p87,3.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p88,玩家填写的虚拟彩票会出现在玩家的购物车中。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p89,3.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p90,玩家提供他们的付款细节，并相应地操作购物车对应的按键，以提交他们的投注。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p91,3.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p92,玩家的投注提交后，无法修改或撤销。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p93,3.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p94,Lottoland通过电子邮件给玩家发送订单确认通知。玩家也可以登陆玩家账号查看投注的进度。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p95,4.支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p96,4.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p97,不能使用账户负余额投注或参与游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p98,4.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p99,玩家应在直布罗陀境内收取奖金，Lottoland将支付奖金到玩家在直布罗陀的银行账户(以上不适用于马拉西亚的玩家)。此外，当奖金达到或高于10万欧元时，玩家应在Lottoland选择的媒体上公开接收奖金，并接受一次或多次的采访。玩家仍可以选择匿名。如有操作上或其他原因的需要，Lottoland可以酌情放弃这些权利并/或选择代替的支付方式。转账以参考货币结算。如需转账，Lottoland可能会向玩家收取银行转账费用。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p100,4.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p101,如有直接的贷款订单并有授权，即视玩家授权Lottoland或其授权的指定机构，通过玩家的银行账户贷款相应金额。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p102,4.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p103,如需返还直接贷款，Lottoland可以拒绝接受进一步的付款。Lottoland有权向玩家索取赔偿，也可能向收款中介收取额外但适当的费用。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p104,4.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p105,任何第三方银行和付款手续产生的费用都由玩家承担，Lottoland有权从玩家账户扣除。也适用于外汇费用。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p106,4.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p107,Lottoland在收到资金后会立即从玩家的银行账户存入Lottoland的账户。玩家应写明他们的玩家号码与银行转账单上。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p108,4.7.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p109,如果从玩家账户到Lottoland的付款被中止、阻断、退回或其他原因，或在此后取消付款等显然存在偷窃或诈骗行为的情况下，Lottoland有权贷款相应金额，包括可能已收取的Lottoland列明的附加费用。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p110,4.8.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p111,玩家账户的信用余额不计利息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p112,4.9.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p113,玩家存入的贷款及玩家账户上的应付信用余额分别由Lottoland持有于其的名下的银行账户，并在破产时不受特殊托管或保护机制的限制。此条款不适用于英国居民或澳大利亚居民，上述两个国家的玩家资金将存放于独立的账户中。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p114,5.Lottoland的权利
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p115,5.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p116,"""如玩家出现下列违反本网站条款和细则的情形，Lottoland有权暂停相关的玩家账户，拒绝玩家使用本网站，并且立即生效。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p117,此外，如发生以下情况，Lottoland有权暂停相应玩家账号，拒绝玩家使用本网站：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p118,i.玩家提供虚假或误导的账户信息、付款方式或其他与本网站的服务有关的信息；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p119,ii.玩家拥有多个玩家账号；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p120,iii.玩家参与任何欺诈活动；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p121,iv.玩家违反本网站条款和细则的任何其他重要规定。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p122,此外，如果Lottoland认为有以下情形，有权暂停玩家账号和玩家使用本网站：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p123,(i)有任何不正确的银行账户信息或银行卡信息都是或已成为错误信息，或该卡已挂失或被盗或涉嫌欺诈事件；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p124,(ii)Lottoland收到对玩家的信用的负面评价，或因玩家自身原因被退回直接贷款；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p125,"(iii).玩家允许第三方使用其玩家账号投注。"""
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p126,5.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p127,在玩家账户被暂停使用期间，玩家将无法访问或使用其玩家账号；此外，Lottoland可以调查使玩家账号暂停的原因，Lottoland有权(但无义务)合理地要求玩家提供所有的身份证明文件。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p128,5.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p129,如Lottoand已确定引起玩家账户暂停的事件已发生，Lottoand将有权永久终止不良玩家账号，并一旦与未来的投注和/或即开型游戏的相关联的投注到期时，Lottoand亦有权选择终止玩家账户，或以其他方式授权EU Lotto作废此类投注或其参与的即开型游戏游戏。如果赌注由18周岁以下的玩家下注，Lottoand将授权EU Lotto作废相关投注和即开型游戏。在这种情况下，赌注(如由EU Lotto退还Lottoand)将从Lottoand返还到该玩家的银行账户，此账户将被关闭。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p130,5.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p131,如果Lottoland查明并无出现此类违约行为，被暂停的玩家账户将会重开。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p132,5.5
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p133,如果Lottoland由于其他任何原因终止玩家使用本网站，Lottoland将通过电子邮件给玩家发通知。这种情况下，Lottoland扣除相应赌注后，会图案换相应余额到玩家账户上，已发生的费用、玩家已购买的所有未开局和开放的彩票和/或即开型游戏的奖金，在玩家的银行账户结算。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p134,6.奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p135,6.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p136,玩家可以登陆玩家账号查看奖金。此外，Lottoland可以通过电子邮件、SMS/文本消息或其他方式通知玩家奖金的事宜。奖金可以任何货币结算。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p137,6.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p138,Lottoand在结算公示所需的相关费用、计算EU Lotto支付给玩家的总奖金和应收奖金后，则会将奖金转账到玩家账户。玩家有权使用奖金于继续投注和/或参与即开型游戏，或根据条款4.2.及其以上的条款，要求Lottoand支付奖金到自身的银行账户。出于安全原因，根据条款4.2.及其以上的条款，Lottoand可以将奖金转账到玩家的银行账户或玩家提供的其他银行账户，但需要玩家提供有效身份证件的正面和反面复印件，并要求证件信息符合玩家注册过程中提供的相关信息，包括姓名或婚前姓名、出生日期和地址等。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p139,6.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p140,"""如发生以下任何情况，Lottoand有权自行授权EU Lotto作废玩家相关的投注或参与的即开型游戏："
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p141,(i)玩家要求Lottoand只在截止日期之后或想过开奖开始后才进行投注，并/或Lottoand在截止日期或相关开奖开始后错误滴接收了在网站上投注的指令；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p142,(ii)Lottoand发现与该投注或开奖有关的实质性错误，并无法联系玩家以更正，或在截止日期前确认投注；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p143,(iii)玩家要求Lottoand投注或参与即开型游戏，但玩家提供与其玩家账户有关的错误、不完整或过期的信息，或使用这些信息关联本网站并使用本网站提供的服务；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p144,(iv)玩家要求Lottoand投注或参与即开型游戏，但该玩家参与过任何涉及投注、即开型游戏、操作玩家账号等的诈骗行为，或非法关联本网站或使用本网站的服务；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p145,(v)玩家要求Lottoand投注或参与即开型游戏时年龄未满18周岁；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p146,(vi)玩家拥有多个玩家账户；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p147,(vii)玩家被发现与开奖或即开型游戏所用的随机号码机的操作员有联系，涉及诈骗并/或技术并/或人为破坏或不当影响；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p148,"(viii)由机构或共同合作机构公布的开奖无效。"""
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p149,6.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p150,"""Lottoand仅为EU Lotto转付奖金给玩家。Lottoand仅需把奖金转入玩家账户，或在以下情况，根据玩家指令，并根据4.2.及以上条款，将奖金支付到银行账户："
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p151,(i)Lottoand收到EU Lotto支付的奖金；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p152,"(ii)玩家获得奖金。"""
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p153,6.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p154,支付任何奖项或即时型游戏的奖金，EU Lotto都可能会要求玩家提供额外的文件材料，例如身份证明和地址证明的（已被公正的）复印件，无论这些材料是否此前已经提供给Lottoand。所有要求的材料都必须由玩家提供，且不得晚于相关游戏开奖日期的12周，否则奖金将被没收。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p155,7.其他
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p156,"""Lottoland保留以下权利："
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p157,i.使用玩家的奖金抵校玩家所欠的投注金额或参加即开型游戏的金额；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p158,ii.由于Lottoland规定的其他任何原因，Lottoland将终止、更改或暂停玩家账户而无需事先通知；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p159,iii.要求玩家提供相关的身份证明文件，以便根据条款和细则，核对玩家账户的详细信息的真实性，以及玩家收取奖金的资格。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p160,"Lottoland可以扣留奖金知道此类问题完全得到解决。"""
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p161,8.本网站，链接及标题
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p162,8.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p163,"Lottoand保留对本网站的所有内容作任何修改、修正、暂停或终止的权利。所作的修改无需被追溯，如果所作的更改项目影响当时的投注或即开型游戏，Lottoand有权通知EU Lotto作废相关的投注和/或即开型游戏，相关的赌注(如果赌注已支付到EU Lotto, 则由EU Lotto退回)，会被退回玩家账号。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p164,8.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p165,Lottoland不对第三方广告商发布的任何促销链接或广告负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p166,8.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p167,玩家不得滥用本网站，例如植入病毒、木马、蠕虫或其他恶意或有害的内容。Lottoland不对任何由于分散式拒绝服务供给、病毒或其他有害内容造成的玩家损失或损害负责，且使用本网站或网站的其他链接，上述病毒等内容可能会对玩家的电脑设备、程序、数据或其他内容造成影响。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p168,8.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p169,Lottoland努力确保本网站提供的信息正确，但我们无法保证信息的准确性或完整性。本网站可能包含错误或不准确或过期信息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p170,8.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p171,"""本网站的内容(包括条款和细则)受国际版权法和其他知识产权法律保护。权利所有者为Lottoland，其附属公司或其他第三方许可人。本网站登有的所有产品、公司名称及商标均为其各自所有人的商标、服务标记或交易名称，包括Lottoland。仅在以下情况，玩家可以打印或下载本网站的摘要，但仅供个人参考："
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p172,i.不得修改本网站上的文档或相关图案；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p173,ii.不得分开使用本网站提供的图案和附带文本；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p174,"iii.Lottoland(法定的网站建设人)应为本网站提供的所有材料的作者。"""
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p175,8.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p176,除上述规定外，未经Lottoland事先给予明确的书面同意，本网站任何部分都不得以任何方式重写或储存、修改、重新发布、上传、张贴、传播或散布，或列入任何网站或任何公共、私人电子检索系统或服务，包括但不限于文本、图片、视频、消息、代码及/或软件。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p177,9.隐私条例
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p178,Lottoland保留玩家个人信息的工作符合所有法定要求。隐私条例阐述了本网站储存和使用有关个人信息的详细情况。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p179,第二部分 - EU Lotto的具体条款和条件
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p180,10.彩票
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p181,10.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p182,如果玩家指令Lottoand代表其投注，并Lottoand已执行，则EU Lotto接受此类由Lottoand代表玩家进行的投注。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p183,本条款和细则中任何对玩家的表述都是指以Lottoland为中介的玩家。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p184,EU Lotto并非彩票运营商。玩家通过EU Lotto对官方和/或国营彩票的开奖结果进行投注。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p185,10.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p186,每张虚拟彩票都至少要下一个赌注。每个赌注被分为单独投注(“正常”)或投注组合(“组合”).在组合中，所选数字的形成的所有组合都可被视为单独投注。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p187,10.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p188,号码独赢仅第一个选其为一组特定号码的玩家可用。只有一个玩家可以为特定组合使用号码独赢方式。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p189,10.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p190,根据所选的EU Lotto游戏，玩家可以在一定的时间段内持续投注(“时长投注”)并自动延长持续时间。持续时间的赌注将在指定的持续时间内相关开奖刚开始的时候通过预付款扣除。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p191,10.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p192,玩家可以选择“追号”自动延长投注。根据不同的EU Lotto游戏，玩家可以选择1-52周的续期。此后，如果玩家账户没有收到取消通知，则投注将自动续订选定的提款期。需在取款期结束前一天的23:59前取消追号功能。下接的投注续期的投注将通过预付款在每个续期里扣除。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p193,10.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p194,玩家可以选择“奖池追杀”，自动增加虚拟彩票数量，直到相关的EU Lotto游戏对应的彩票最高奖别的当前累计奖金已被赢得。提款期仅在下一个开奖日期关闭。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p195,10.7.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p196,每期开奖的投注截止日期都不同，并会在网站上公布。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p197,如于截止日期前下注，并玩家没有选择其他的选项，则有效的投注将参与下一次开奖。截止日前将公布在网站内。玩家自行确保在截至日期前给出下注的指令。为避免疑问，在指定的开奖或已发生的开奖开始后的投注都无效，即使玩家收到邮件确认通知或网站确认通知，或网站公布了错误的截止日期。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p198,10.8.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p199,仅当公布的EU Lotto彩票的头奖已达到或超过指定的“当头奖达到”金额，玩家才可使用“当头奖达到”功能，直接投注到/参与一款特定的EU Lotto游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p200,10.9.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p201,如果一个开奖在同一天/日期进行多次，则除非EU Lotto另有规定，否则玩家的投注仅可用于当天/该日期进行的重点开奖(或，如果没有重点开奖项，则为第一个开奖)，不可用于其他开奖。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p202,10.10.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p203,如果开奖并无进行，或无开奖结果公布，则关于此次开奖的所有有效投注都将进入重新开奖(如无，则进入相关的其他开奖)。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p204,10.11.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p205,EU Lotto努力确保网站上提供的彩票的所有累积奖金金额正确，但不对错误的信息承担任何责任。EU Lotto运用相应的估算以预测未来累计奖金的金额，例如当前或未来累计奖金被赢取或继续累计的金额，但不对错误的假设、计算或预测负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p206,11.投注的奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p207,11.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p208,EU Lotto为每一个投注计算奖金。每一个官方彩票和将别的计算都不同，下一项“EU Lotto概述”将介绍如何达到不同的奖别以及各自不同的计算方式。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p209,（Please insert table of prize category here. Please see attached Excel.)
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p210,11.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p211,A类别的奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p212,每场A类别奖别(如11.1.中的表格所示，例如一等奖的欧洲百万乐透)中每个EU Lotto玩家赢得的奖金都取决于该奖别的官方彩票彩票数量，该奖别的EU Lotto获奖彩票数量，该奖别中官方彩票 运营商应付奖金所对应的官方彩票彩票数量以及该奖别的官方彩票头奖。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p213,EU Lotto根据官方彩票 运营商发布的总赌注以及分配到头奖的赌注，或根据官方彩票 运营商在网站公布的该奖别的开奖头奖，计算A类别的奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p214,一个A类别奖别中仅有一个EU Lotto游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p215,如果A类别奖别中只有一个玩家对此EU Lotto游戏投注，则该EU Lotto赌局的奖金应如此计算：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p216,奖金 = 官方彩票在A类别的头奖/(官方彩票在A类别参与头奖的彩票+1)
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p217,如果A类别中EU Lotto的赌注奖金是双倍奖池，则奖金翻倍。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p218,示例1：在A类别中只有一个EU Lotto玩家投注，并且在A类别的官方彩票彩票中，官方彩票 运营商无公布头奖为9000万欧元，则该EU Lotto的单一投注奖金为9000万欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p219,示例2：在A类别中只有一个EU Lotto玩家投注，并且A类别的官方彩票 运营商公布两个A类别彩票都属9000万欧元奖别，则该EU Lotto的但一投注奖金为3000万欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p220,更多关于EU Lotto的A类别奖别奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p221,如果A类别中有多于一个EU Lotto投注，则不含号码独赢的A类别奖别的奖金以“共享模式”，分三步计算：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p222,第一步 - 计算共享的号码
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p223,共享号码 = 在该奖别中官方彩票头奖彩票数量 + 该奖别中EU Lotto投注的彩票数量
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p224,第二部 - 计算每个份额的大小
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p225,一个份额的大小 = 该奖别的官方彩票头奖/份额数
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p226,第三部 - 分配奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p227,1 在A类别没有使用号码独赢或双倍奖池的每一个赌注的份额
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p228,2 在A类别有使用双倍奖池的份额
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p229,示例3：在A类别中有两个EU Lotto的投注获胜，并由官方彩票 运营商在A类别公布有一张官方彩票头奖彩票，且头奖为9000万欧元。则形成三个支付份额，每一个份额3000万欧元。A类别中每个EU Lotto游戏的奖金都为3000万欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p230,A类别中号码独赢的奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p231,EU Lotto中A类别号码独赢的奖金，是根据假设在A类别中并无其他玩家获奖金，也没有其他官方彩票彩票而计算的。因此，用于EU Lotto号码独赢的奖金不会被共享。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p232,11.3
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p233,B类别的奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p234,B类别(如11.1表格所示，例如第2类奖别的欧洲百万乐透)，每个玩家赢得的奖金都取决于该奖别中的获奖彩票数量，该奖别中的EU Lotto彩票数量，该奖别中官方彩票 运营商对相关彩票的应付奖金以及官方彩票在该奖别的头奖。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p235,EU Lotto根据官方彩票 运营商公布的总赌注金额以及分配到头奖的金额，计算B类别的奖金，或根据官方彩票 运营商在网站公布的其相关开奖的头奖计算。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p236,B类别中只有一个EU Lotto的投注获胜
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p237,在B类别中，如果只有一个EU Lotto投注获胜，则奖金计算方式为：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p238, 奖金 = 官方彩票在B类别的头奖/(官方彩票在B类别参加头奖的获奖彩票+1)
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p239,示例1：参与B类别的玩家中仅有一个EU Lotto投注获胜，并在B类别中，该获胜彩票已由官方彩票 运营商公布头奖为9000万欧元，则该单一的投注获奖金9000万欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p240,"示例2：参与B类别的玩家中仅有一个EU Lotto投注获胜，并且在B类别中,该获胜彩票已由官方彩票 运营商公布头奖为9000万欧元，则该单一的投注获奖金3000万欧元。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p241,超过一个对B类别的EU Lotto投注
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p242,如果B类别中有多于一个对EU Lotto的投注硬的奖金，则根据共享模式计算这些获奖彩票的奖金，包括三个步骤：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p243,第一步 - 计算份额数量
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p244,份额数量 = 该奖别中官方彩票获奖彩票的数量 + 该奖别中EU Lotto获奖彩票的数量
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p245,第二步 - 计算每个份额分得的奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p246,每个份额分得的奖金 = 官方彩票头奖奖金/份额数量
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p247,第三部 - 分配奖金：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p248,在该奖别的每个EU Lotto投注都有一个份额
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p249,示例4：在B类别中有两个EU Lotto投注获奖，并在B类别中，该获奖彩票由官方彩票 运营商公布头奖为300万欧元。假设有三个奖金份额，每个份额赢得奖金100万欧元，则该奖别中每个EU Lotto的获奖投注，奖金为100万欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p250,11.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p251,C类别奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p252,C类别(如11.1.中表格所示，例如第四个类别的欧洲百万乐透)中每个EU Lotto投注赢得的奖金为官方彩票 运营商公布的对应相关官方彩票彩票的奖金金额。如果官方彩票 运营商并无公布有彩票在开奖中获得奖金，则该奖别中每个EU Lotto获奖投注赢得的奖金将根据应付的总奖金计算，由官方彩票 运营商公布获奖的官方彩票彩票及其分得的奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p253,11.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p254,从一个奖别到另一个奖别的费用支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p255,上述规定适用于，由于在一次开奖中，一个奖别中无任何官方彩票彩票获奖，或无任何官方彩票彩票投注，或由于头奖限制，导致在奖别的奖金并未支付。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p256,11.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p257,幸运螺旋的奖金支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p258,月度支付的奖金应为从开奖日期算起不超过280个月的奖金。每月授权支付的奖金不可继承。因此，幸运螺旋的累计奖金显示为201万欧元，此金额为所有月度付的奖金的总额。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p259,11.7.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p260,美国超级乐透和美国强力球的奖金支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p261,与MUSL Mega Millions和Powerball一样，EU Lotto可以支付30年以上的1类奖别的奖金(“年金选项”)。如果EU Lotto选择年金选项，则将在开奖后尽快进行第一次支付，家下来的29次支付将每隔一年支付一次。计算支付进度，使支付的金额按照MUSL设定的百分比逐年增加，直到金额付清为止。如果EU Lotto选择一次性付清奖金(“现金选项”)，则预扣后的奖金总额将被折扣，并在MUSL Mega Millions和Powerball中完成。折扣率为40%，即选择年金选项，一次性付清奖金的总数的60%。EU Lotto有权自行选择支付方式。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p262,11.8.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p263,美国超级乐透和美国强力球的预扣奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p264,EU Lotto在最高奖金的两个奖别中保留35%的奖金峪口，旨在使玩家能处于相应的经济地位，即等同于参与了官方彩票。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p265,11.9.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p266,澳洲一三彩和澳洲周六彩的奖金支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p267,如果A类别中官方彩票彩票的数量与该奖别中的EU Lotto彩票数量之和不大于4，则每个EU Lotto在A类别的获奖彩票奖金为100万澳元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p268,如果A类别中官方彩票彩票的数量与该奖别中的EU Lotto彩票数量之和大于4，则11.2的规定适用于此。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p269,11.10.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p270,七七出彩的奖金支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p271,"A类别中所有的奖金都以四舍五入方式支付，采取x,x77,777.00欧元的形式。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p272,11.11
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p273,西班牙夏天特别乐透、四分彩和终生现金彩的奖金支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p274,与上述规定相反，西班牙夏天特别乐透、四分彩和终生现金彩彩票的奖金将在网站上公布，并独立于官方彩票运营商公布的奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p275,11.12.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p276,最高付款值
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p277,EU Lotto应为最高奖别开奖游戏支付奖金总额不得超过以下列出的数额。如果超过下列数额，奖金将分配给所有玩家。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p278,德国基诺: 500万欧元
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p279,幸运螺旋: 每月支付35万欧元或402万欧元，并以此为所有未来月度付款的总和。&nbsp;
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p280,波兰基诺: 1000万波兰兹罗提
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p281,波兰乐透附加游戏+: 1000万波兰兹罗提
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p282,七七出彩: 1000万欧元
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p283,超级6: 100万欧元
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p284,11.13.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p285,特殊头奖
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p286,对于所有游戏，EU Lotto有权根据自己的判断公布特殊头奖。在这种情况下，所宣布的特殊头奖的总额将替代所有在A类别的官方彩票头奖。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p287,11.14.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p288,每个普通的投注只可赢得一个奖别，这也是通过该投注获得的，且与该投注相关的所有可选奖别中最高的。基于其各自组成的单个投注，组合投注可以赢得多个奖别。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p289,11.15.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p290,联合
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p291,EU Lotto的联合投注奖金分三个步骤计算：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p292,第一步 - 计算联合投注奖金的总额
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p293,联合投注奖金的总额 = 构成组合的所有EU Lotto获奖彩票的奖金总和。计算方式参考本条款和细则第11条。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p294,第二步 - 计算联合投注的分数
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p295,联合投注分数 = 玩家购买的份额数量/为相关联合投注购买的份额总数
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p296,第三步 - 计算该EU Lotto的联合投注的奖金
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p297,该EU Lotto的联合投注的奖金 = 联合投注奖金总和 * 联合投注分数
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p298,示例1：一EU Lotto的联合投注的总奖金为9000万欧元，联合投注的分数为九分之一，则此EU Lotto的联合投注的奖金为1000万欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p299,示例1：一EU Lotto的联合投注的总奖金为3000万欧元，联合投注的分数为二十五分之三，则此EU Lotto的联合投注的奖金为360万欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p300,11.16.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p301,奖金将以投注的货币计算和支付(“参考货币”)。使用欧洲中央银行在支付奖金日期公布的欧元外汇汇率(ECB汇率)。此项也适用于年金付款。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p302,11.17.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p303,EU Lotto努力确保本网站显示的所有信息和结果均正确。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p304,11.18.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p305,EU Lotto对本网站显示的任何错误信息概不负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p306,11.19
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p307,如果玩家激活“CashCow”功能，超过100万欧元的奖金(除了幸运螺旋、美国超级乐透和美国强力球的年金)将以以下方式支付：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p308,根据所选的支付计划，包括120个月、240个月、360个月或终生支付直到死亡，应付的奖金将按月分期支付。支付计划为10年、20年或30年的月度支付是可继承的。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p309,如果玩家选择了CashCow付款计划“终生支付”，则每期支付的金额由玩家到85周岁生日日期前剩余的月数决定。如果玩家年满75周岁时选择终生支付计划，则每月支付的金额将以10年计算。选择终生支付计划后，月度付款将继续，直到玩家身亡。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p310,"示例1：奖金总额为1000万欧元，玩家选择CashCow 10年付款计划，则在120个月内，每月付款83,333.33欧元。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p311,"示例2：奖金总额为2000万欧元，玩家选择CashCow 30年付款计划，则在360个月内，每月付款55,555.55欧元。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p312,示例3：奖金总额为3000万欧元，玩家(至开奖截止日期年龄为35周岁)选择CashCow终生支付计划，则每月付款5万欧元直至玩家身亡。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p313,示例4：奖金总额为3000万欧元，玩家(至开奖截止日期年龄为80周岁)选择CashCow终生支付计划，则每月付款25万欧元直至玩家身亡。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p314,玩家应保证其提供的所有个人信息正确。无论玩家是否有意，如玩家提供虚假年龄信息，EU Lotto有权拒绝、冻结和/或作废对玩家的付款。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p315,根据上述条款，所有未来的多期付款将转换成参考货币。所有后续付款均按相同汇率。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p316,12.即开型游戏
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p317,12.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p318,即开型游戏让玩家得以参与EU Lotto在网站上提供的各种虚拟游戏，此类游戏的号码由经过认证和试验的随机号码生成器获得。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p319,12.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p320,玩家可以购买一个或多个即开型游戏。玩家的赌注由玩家在网站上购买并显示的的即开型游戏数量决定。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p321,所有即开型游戏交易均能在网站的“我的交易”功能中查询。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p322,12.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p323,EU Lotto有权自行决定保留终止或更改即开型游戏形式，或增加新款即开型游戏而无需给予相应的理由。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p324,12.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p325,每个即开型游戏都包括九个号码。如果有三个号码都显示相同的符号或数字符号，则玩家胜出。每个即开型游戏都有不同的赌注、奖金和支付表。所有即开型游戏的支付表都会显示在本网站的即开型游戏栏目。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p326,即开型游戏可以另外乘以一个倍数。如果有三个号码显示相同的符号或数字符号，则玩家胜出。胜出的玩家，其奖金会乘以即开型游戏底部标注的倍数。此时，即开型游戏的支付表也会显示在本网站的即开型游戏栏目。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p327,12.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p328,除非另有说明，否则一个即开型游戏只含有一个奖金。玩家可以赢得即时现金奖励、永久现金奖励、免费即开型游戏和本网站所示的任何种类奖品。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p329,12.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p330,如果两周内并未开始玩家所购买的即开型游戏，EU Lotto保留代表玩家参与即开型游戏的权利。赢取的所有奖金都会支付到玩家账号。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p331,12.7.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p332,a.玩家自身对进入本网站并参与即开型游戏可能产生的风险负责。本网站和即开型游戏并无给予任何明示或暗示的保证。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p333,b.EU Lotto和Lottoand都不对任何机器故障、服务器终端、滞后或任何技术或政治因素造成的对即开型游戏的干扰负责。发生故障时，所有即开型游戏均无效。Lottoand有权自行办理退款。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p334,c.玩家理解并认同：如果有(或玩家过后被告知)即开型游戏中存在或已经存在故障或问题，则在故障期间作出的任何赌注均被视为无效，且任何游戏结果亦为无效。无论是否收到通知，玩家都有义务根据本条款而获得的所有奖金立即退换给EU Lotto。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p335,d.在法律允许的最大范围内，EU Lotto和Lottoand对各自的网站或与网站相关内容，或对玩家参与即开型游戏的任何成本、费用损失、损害、索赔和/或对玩家或任何关系的第三方造成的损失不负责；包括但不限于：操作或数据传输期间的延迟或中断，数据丢失或破幻，通信或线路故障，人为滥用本网站或其内容，或本网站的内容中存在的任何错误或遗漏的信息。在任何情况下，EU Lotto和Lottoand因上述任何事件，无论是关乎合同、侵权、毁约或其他事件，而造成的最大责任，都不超过100英镑。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p336,13.EU Lotto的权利
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p337,13.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p338,"""在以下情况下，玩家无权要求EU Lotto支付任何奖金，或提取奖金，和/或EU Lotto有权自行决定玩家投注、参与即开型游戏或玩家赢得奖金的资格："
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p339,i.在截止日期之后或开奖开始之后才投注；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p340,ii.在截止日期之后或开奖开始之后或开始时，错误地接受投注；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p341,iii.EU Lotto知道有关某一投注、开奖或即开型游戏存在错误，并无法联系玩家修正错误或在截止日期前确认下注；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p342,iv.玩家提供虚假的玩家账号信息，或与本网站或通过本网站获得的服务有关的虚假信息，且该玩家通过委托中介代表本人投注或参与即开型游戏；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p343,v.玩家涉及与投注、操作玩家账户或与本网站或通过本网站获得的服务有关的诈骗行为，且该玩家通过委托中介代表本人投注或参与即开型游戏；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p344,vi.玩家未满18周岁，或玩家在EU Lotto或Lottoand集团旗下的任何子公司担任负责人、高层管理人员或雇员(或其配偶或亲属)，且该玩家通过委托中介代表本人投注或参与即开型游戏；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p345,vii.出现与开奖有关的任何欺诈、技术和/或人为错误、或无理的影响；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p346,"ix.由官方经营者或合作经营者宣布开奖无效。"""
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p347,如果获得Lottoand授权或指令，EU Lotto可能会作废下一场的投注或参与的即开型游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p348,13.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p349,在决定是否根据13.1.条款支付奖金是，EU Lotto可能会根据由Lottoand收集及/或获得并转交给EU Lotto的情报做出相关决定。EU Lotto没有自行调查的义务。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p350,13.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p351,EU Lotto可以在13.1(i)-13.1.(ix)条款中提及的任何情况下，要求玩家和/或Lottoand退还已经收到的奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p352,13.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p353,如果根据13.1.条款，投注或参与的即开型游戏无效，EU Lotto将代表玩家向Lottoand建议将赌注投于下一场开奖或存入玩家账号。如果根据本条款，Lottoand否决玩家的投注或参与即开型游戏，则参与投注或即开型游戏的相关赌注可能会被没收到EU Lotto。或当投注时，玩家年龄未满18周岁，相关赌注会被退回Lottoand。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p354,13.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p355,"""EU Lotto保留以下权利："
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p356,i.取消支付未付款的投注或即开型游戏彩票的奖金；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p357,ii.以任何原因立即终止、更改火暂停本网站提供的任何产品并无需提前通知；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p358,iii.由EU Lotto全权自行决定支付部分或全部分期支付奖金；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p359,iv.要求玩家提供身份证明，以根据本条款和细则核实玩家账户信息以及玩家获取奖金的资格。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p360,"EU Lotto可能扣除高达2500元欧元的奖金，直到所有问题已经解决，并满足EU Lotto合理的要求。"""
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p361,13.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p362,由EU Lotto在开奖开始前是否接受玩家投注。如果EU Lotto拒绝玩家投注，赌注将会全部退还玩家。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p363,第三部分 - 通用的条款和细则
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p364,14.投诉
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p365,14.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p366,Lottoland的投诉流程分三个步骤。对于1 - 3级投诉，玩家可以通过电子邮件联系客服。每封电子邮件的主题应标明“投诉”，Lottoland收到该投诉并给予一个查询号后，玩家将收到该查询号，
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p367,14.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p368,1级投诉由客户服务部的员工处理。2级投诉由客户服务部主管处理。3级投诉将由Lottoland的法务部门处理。<
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p369,14.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p370,如果玩家对他们的投诉结果不满意，来自英国境外的玩家可以联系我们在直布罗陀设立的博彩事务专员。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p371,15.我们的承诺
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p372,15.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p373,如出现有关投注或奖金支付的争议，EU Lotto可能会暂停支付奖金，直到所有争议已解决并满足EU Lotto的合理要求为止。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p374,15.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p375,EU Lotto可以仅根据第14项条款作最终决定或如以上条款所述自行决定，赔偿玩家相应的投注或参与即开型游戏的投注，或向玩家提供新的投注或参与即开型游戏的彩票。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p376,16.综合责任和不可抗力定义
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p377,16.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p378,Lottoand和EU Lotto不对玩家或第三方负责，包括合同、侵权(包括疏漏、违反法定责任等其他侵权行为)或其他事件：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p379,i.对收入、业务、预期储蓄或利润(直接或间接)；或
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p380,ii.由于本网站或本网站提供的任何服务，缺失或延迟供应，或不履行本条款和细则等，造成的任何间接、特殊或后果严重的损失、损害、费用或其他应付赔偿。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p381,16.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p382,本条款和细则中的任何内容都不会影响由Lottoand或EU Lotto的疏忽导致的人身伤害或死亡而应付的责任。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p383,16.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p384,在不影响本条款和细则的任何内容的情况下，在以下情形，Lottoand和EU Lotto不对任何人负责：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p385,i.超出合理控制范围的任何事件，包括但不限于任何政府行为，实际或可能造成威胁的战争，或其他危害或挑战政府权力的事件；或根据政府命令或地方条例，财产被没收，国有化，征用或损毁、破坏等；或罢工、封锁、行业行动、火灾、洪涝、干旱、暴风雨、断电及/或断网；或网站故障；或其他任何方面的阻碍；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p386,ii.由于计算机系统或记录或任何第三方(包括但不限于本网站)或任何障碍而在成的失败或损毁、破坏，或出现任何网络错误等；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p387,iii.邮政或其他邮递服务或银行系统的延误、损失、错误或遗漏；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p388,iv。其他阻止或阻碍投注的任何行为或事件；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p389,v.拒绝将投注或即开型游戏彩票售卖给任何人，或允许任何人投注或参与即开型游戏等；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p390,vi.对玩家造成的任何损失，包括滥用或未经授权使用密码参与投注或即开型游戏而造成的损失，以及相关玩家或互联网供应商的设备或技术的故障。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p391,17.Lottoland的义务
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p392,17.1
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p393,Lottoland努力确保网站及其提供的服务尽善尽美，但Lottoland不能也不保证：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p394,i.本网站可以在任何制定的时间或期间可用；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p395,ii.本网站的功能、性能或表现满足玩家或第三方的的要求；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p396,iii.本网站或功能可以，或即将可以，使玩家访问本网站所使用的设备或系统兼容。此外Lottoland不保证任何玩家都可以选择警报功能或设备，以提醒Lottoland在截止日期前投注到相关抽象游戏中，并无义务警告玩家其使用的设备不正确，或存在延迟，或玩家无法发送或接受信息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p397,17.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p398,Lottoland努力确保其提供的结果和奖金数额正确，但不对奖金被支付后发现的任何错误负责，并且此类错误出自于官方彩票或相关网站的不正确信息。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p399,17.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p400,Lottoland不对第三方破产而造成的损失或损害承担责任，包括维持Lottoland银行账户的银行。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p401,17.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p402,Lottoland对玩家的责任仅限于玩家在过去30天内支付的总金额。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p403,18.EU Lotto的义务
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p404,18.1
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p405,Lottoand不对第三方破产而造成的损失或损害承担责任，包括Lottoand或维持EU Lotto银行账号的银行。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p406,18.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p407,EU Lotto对玩家和/奖金的责任完全由EU Lotto向Lottoand解决。注意：EU Lotto在任何情况下都不会直接向除Lottoand外的第三方支付奖金。如果玩家没有符合本条款和细则的要求，EU Lotto也没有义务支付奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p408,18.3
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p409,除了玩家投注获奖后代表玩家向Lottoand支付奖金的义务，根据本条款和细则，EU Lotto对玩家的一切责任是有限的。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p409.ul.li1,如果应负责任为投注金额，则指该玩家对指定投注所付的投注总金额
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p409.ul.li2,其他所有情况：应付责的总金额不超过5000欧元。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p410,19.协议的范围
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p411,19.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p412,(i)玩家和Lottoand(代表玩家投注的一方)以及(ii)玩家和EU Lotto(博彩公司)，在本网站和其提供的服务之间的协议包含：
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p413,i.本条款和细则；
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p414,ii.信息使用条例；以及
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p415,iii.本网站所示的所有解释和声明。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p416,Lottoand和EU Lotto人为此协议及其组成部分均合理且公平。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p417,19.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p418,EU Lotto不会单独记录玩家在本网站上注册或输入的个别信息。玩家可以在网站上访问本条款和细则。玩家可以在自有的计算机上打印和/或保存下载的副本。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p419,20.相关法律
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p420,20.1.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p421,所有的交易，包括玩家和Lottoand与EU Lotto之间的合同或非合同形式的支付，均视为已完成，并在直布罗陀进给的Lottoand和EU Lotto服务期内进行。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p422,20.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p423,本条款和细则指明，玩家和Lottoand/EU Lotto之间的每个投注和参与的每个即开型游戏均受直布罗陀法律的管辖和解释。每个投注和即开型游戏都在直布罗陀境内进行。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p424,20.3.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p425,如此条款和细则以多种语言发布，则此条款和细则的英文版应取代并优先于其他语言版本存在的冲突内容。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p426,20.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p427,玩家应提交所有与本条款及协议，或任何在本网站提交的投注有关的争议于直布罗陀本土直辖的法院。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p428,20.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p429,互联网博彩在某些地区可能是非法的，其合法性可能有疑。但每个玩家都理解并认同，Lottoand和EU Lotto无法，也不会提供任何法律方面的建议或保证或其他任何的法律文件，以支持玩家所在地区的博彩行为的合法性。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p430,20.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p431,Lottoand和EU Lotto对任何非法或未经授权使用本网站或其服务的行为不负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p432,21.通用条款
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p433,21.1
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p434,如本条款和细则被任何司法或主管部门认定为无效或不可执行，则本条款和细则均将保持有效并不受影响。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p435,21.2.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p436,如本条款和细则被视为无效或不可执行，但需删除部分内容，则本条款和细则均保持有效且可执行，但相关内容将相应地做必要的最小程度的修改，使其有效及可行。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p437,21.3
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p438,本条款和细则的所有通知都通过电子邮件发送及接收。为此，玩家的消息应发送到客户服务部门。Lottoand将通过玩家账户中指定的邮箱地址向玩家发送消息。玩家和EU Lotto之间的任何通信应通过Lottoand用同一邮箱地址发送及接收。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p439,21.4.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p440,Lottoand和EU Lotto在本条款和细则中做出的任何确认、保证、同意、承诺、协议及责任，均由Lottoand和EU Lotto各自单独处理及负责。Lottoand和EU Lotto仅对其各自违反确认、保证、同意、承诺、协议或义务的行为造成的损失或损害负责。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p441,21.5.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p442,Lottoand和EU Lotto可以，但玩家不可以，根据本条款和细则分配任何权利和/或转让、分包、委托任何义务，和/或以其他方式对根据本条款和细则，或Lottoand或EU Lotto的权利及义务，创建的任何合同进行收费或交易。为避免疑问，Lottoand或EU Lotto可将Lottoand或EU Lotto和玩家之间的任何合同转让给第三方(包括与Lottoand或EU Lotto关联的公司)，并将全部或转移部分的业务和资产。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p443,21.6.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p444,玩家违反本条款和细则的任何授权、转让、分包、委托、收费或交易均被视为无效。本条款和细则应针对玩家个人，而非任何第三方的利益。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p445,21.7.
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab2.content6.p446,任何根据本条款行使或延迟行使的任何权利的行为，或补救措施的疏漏，都不应视为放弃此行为或补救措施。Lottoand或EU Lotto放弃根据本条款和细则或法律而行使的权利或补救措施的行为，不应视为Lottoand和EU Lotto放弃全部可行使的权利或补救措施，或其他权利或补救措施。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.title,Player Protection
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.heading.title,玩家保护
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content1.p1,我们非常注重保护在有节制的情况下最大程度地享受我们的娱乐产品。我们希望您的娱乐时间是在可控制范围内的。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content2.heading,保持节制
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content2.p1,投注在彩票上是一项很有趣的娱乐活动。如果其开始对您的个人生活造成负面影响时，该活动就不再有趣了。因此，请您只在空闲时间内有节制的进行游戏。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content3.heading,只限年满18周岁的玩家注册
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content3.p1,根据直布罗陀博彩协会规定，我们非常严格地执行“只限年满18周岁玩家注册”的政策。因此，我们规定所有玩家在注册Lottoland账户时必须年满18周岁。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content4.heading,保护未成年人
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content4.p1,"在某些情况下，成年人必须与未成年人公用上网设备。为了保护未成年人，我们强烈建议安装免费软件 <a href=""http://child.rksec.com/"">绿色童年</a>，或者付费使用<a href=""http://www.pclaoba.com/"">电脑老爸</a>。"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content5.heading,还有其他问题？
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab3.content5.p1,如果您还有其他问题，请随时通过在线咨询与我们联系。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.title,Payouts
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.heading.title,奖金支付
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.content1.heading,我怎么知道自己是否中奖，又中了多少？
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.content1.p1,在“我的彩票”中打开彩票详情，查看您选择的彩票号码及中奖号码。中了的号码会加高亮突出显示，这样就知道总共猜中多少号码。奖项一栏里会显示此次开奖您所获得的奖金。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.content2.heading,怎样将奖金转到我的银行账户上？
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.content2.p1,您必须先填写希望转入的银行账号及转账金额。为了确保您独享大奖，并防止洗钱行为，我们要求银行账户的开户人姓名必须与玩家姓名和身处其居住国吻合。奖金通常在几个工作日内到账。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.content3.heading,中奖支付有保障吗？如何保障？
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab4.content3.p1,Lottoland保证支付您所有的中奖奖金！所有的彩票都以您的名义从EU Lotto Limited(欧盟彩票有限公司)购得。该公司由直布罗陀政府颁发营业执照，受直布罗陀赌博委员会监管，且被授予固定赔率执照（RGL No 066）。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.title,About Us
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.heading.title,关于 Lottoland
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content1.heading,全球最高奖池，等您来尝试
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content1.p1,在Lottoland，您可以尽情投注全球最大、最优彩种。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content1.p2,"Lottoland为广大用户提供的彩票选择有欧洲地区最受欢迎的欧洲百万乐透和欧洲超级乐透，美洲地区的巨额奖池所属低—美国超级乐透和美国强力球 。此外玩家还可以亚洲地区最受热捧的 香港六合彩，还有其他更多的乐透。 还有各式各样好玩的娱乐场老虎机游戏，即开即中，随时把奖金带回家！
+            每日随时随地都可投注乐透和老虎机，圆您百万富翁之梦！"
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content2.heading,通过Lottoland投注官方开奖结果
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content2.p1,在Lottoland，您可以投注世界几大彩种，您需要做的仅仅是选彩票、抽号码，然后提交。 只要满足官方开奖的任何一项奖金等级，即意味着您彩票中奖！ 总之，在Lottoland投注彩票，您赢得得奖金与官方开奖同等的，但您将获得更精彩的投注体验。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content3.heading,保证奖金支付，让您放心购买
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content3.p1,我们已经获得英国和直布罗陀博彩委员会的全面许可，且获得经营许可的条件就是我方证明在投注者中奖的情况下，能够将所有应得奖金发放给获奖得主。 对于小额奖金，我们直接使用彩票的销售金额支付奖金。 为保证头奖或其他等级巨额奖金的发放，我们已进行了投保，确保所有大奖都将能支付。目前为止，我们已经支付超过800万元的大奖12个，最高一次支付的奖金是2200万欧元（约1.76亿元）。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content4.heading,Lottoland扎根欧洲直布罗陀
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content4.p1,公司总部位于有全球在线博彩行业中心之称的直布罗陀。 我们身处欧洲，拥有150位来自30多个国家、不同文化背景的员工，处于快速发展的重要时期。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content5.heading,Lottoland屡获殊荣
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content5.p1,自从成立以后，我们不断的完善自己，适应市场和客户的需要。2015年，在一年一度的行业最具口碑的EGR会议上，同时获得了2015年EGR年度最佳运营商，平台进步之星和最佳线上平台的3 个奖项。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content6.heading,静候您的访问
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content6.p1,您可以通过在线聊天联系我们的客服团队，客服人员会热情帮您解决所有问题。 或者发邮件至xxx@lottoland88.com，与我们取得联系。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content7.heading,更多详细信息？
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content7.p1,“欧洲乐透（EU Lotto）”——欧洲乐透有限公司在英国注册，公司编号是109514，由英国博彩和游戏协会准予其接受彩票投注的许可（执照号码为RGL 066）和供应赌场式游戏产品（如刮刮乐）的许可（执照号码为 RGL 085）。欧洲乐透扮演的角色就是博彩公司，决定了彩票的赔率，并且有责任确保奖金的发放，在英国通过Lottoland将奖金支付给获奖玩家。欧洲乐透有限公司由英国博彩委员会根据许可编号38991规定准予接受彩票投注的许可执照。
+58a82d7ea5527676b47c8741,58a84d3aa5527676b47c874f,about.tab5.content7.p2, Lottoland于2013年5月成立，由Nigel Birrell担任CEO。
+58a82d7ea5527676b47c8741,58a84664a5527676b47c8747,copywright,
+58a82d7ea5527676b47c8741,58a84d53a5527676b47c8750,1,UnionPay
+58a82d7ea5527676b47c8741,58a84d53a5527676b47c8750,2,WeChat Pay
+58a82d7ea5527676b47c8741,58a84d53a5527676b47c8750,3,Paypal
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,1,Agricultural Bank of China
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,2,Bank of Beijing
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,3,Bank of China
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,4,Bank of Communications
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,5,China Construction Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,6,China Everbright Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,7,China Guangfa Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,8,China Industrial Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,9,China Merchants Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,10,China Minsheng Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,11,China Citic Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,12,Huaxia Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,13,Bank of Hangzhou
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,14,Industrial and Commercial Bank of China
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,15,Ping An Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,16,Postal Savings Bank of China
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,17,Shenzhen Development Bank
+58a82d7ea5527676b47c8741,58a84d58a5527676b47c8751,18,Shanghai Pudong Development Bank
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,1,Euro Jackpot
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,2,Euro Millions
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,3,HK Mark Six
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,4,Mega Millions
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,5,Powerball
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,6,Cash4Life
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,7,OZ Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,8,Austrian Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,9,El Gordo Primitiva Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,10,French Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,11,German 6 Aus 49
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,12,German Keno
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,13,Irish Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,14,KeNow
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,15,MegaSena
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,16,Mon & Wed Oz Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,17,Multi Keno
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,18,Oz Powerball
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,19,Polish Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,20,Mini Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,21,Saturday Oz Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,22,El Gordo Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,23,SuperEnaLotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,24,Swedish Lotto
+58a82d7ea5527676b47c8741,58a84d68a5527676b47c8752,25,UK Lotto

@@ -1,0 +1,115 @@
+// Scratchcards specific styles
+
+#scratchcard-listing {
+  padding: 0 1em;
+
+  & > .section {
+    display: flex;
+    // justify-content: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: -13px;
+    // align-content: flex-start;
+    align-items: stretch;
+
+    & > div {
+      width: 25%;
+      padding: 0 0em .8em .8em;
+
+      &:nth-child(4n) {
+        clear: both;
+      }
+    }
+  }
+  .gray-box {
+    // min-height: 355px;
+
+    .box-title {
+      padding: 1em 1em 2.5em;
+      display: block;
+      position: relative;
+    }
+
+    .box-content {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      padding: .5em;
+      padding-top: 0;
+      height: auto;
+    }
+    img {
+      height: auto;
+      width: 100%;
+      margin: 0em;
+    }
+    .sc-info {
+      width: 100%;
+      height: 100%;
+      margin-bottom: 0.5em;
+    }
+
+  }
+}
+
+@media screen and (max-width: 1440px) {
+}
+@media screen and (max-width: 1280px) {
+  #scratchcard-listing {
+    & > .section {
+      & > div {
+        width: 25%;
+
+        &:nth-child(4n) {
+          clear: both;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 980px) {
+  #scratchcard-listing {
+    & > .section {
+      & > div {
+        width: 25%;
+
+        &:nth-child(4n) {
+          clear: both;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 780px) {
+  #scratchcard-listing {
+    & > .section {
+      & > div {
+        width: 33.33%;
+
+        &:nth-child(3n) {
+          clear: both;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 767px) {
+  #scratchcard-listing {
+    & > .section {
+      & > div {
+        width: 100%;
+
+        &:nth-child(1n) {
+          clear: both;
+        }
+      }
+    }
+    .gray-box {
+      .box-title, .sc-info {
+        display: none;
+      }
+    }
+  }
+}
+@media screen and (max-width: 480px) {
+}

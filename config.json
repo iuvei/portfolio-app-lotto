@@ -1,0 +1,70 @@
+{
+  "isPublic": false,
+  "lottoland": "",
+  "appPort": "4040",
+  "cdn_assets": "",
+  "wallet": {
+    "find": "",
+    "credit": "",
+    "debit": "",
+    "transaction": "",
+    "externalWallet": "",
+    "transfer": "",
+    "callback": "",
+    "decline": ""
+  },
+  "loyalty": {
+    "transaction": ""
+  },
+  "lfgAPI": {
+    "getDrawings": "",
+    "getLotteries": "",
+    "getPrices": "",
+    "postPrices": "",
+    "postBets": "",
+    "postBetHistory": "",
+    "postOpenBet": "",
+    "postFetchLotteryAmt": ""
+  },
+  "admin_config":{
+    "username": "",
+    "password": "",
+    "grant_type": "",
+    "client_id": "",
+    "client_secret": ""
+  },
+  "paystar":{
+    "id": "",
+    "secret_key": "",
+    "bank": ""
+  },
+  "tagsAPI":{
+    "categories": "",
+    "tags": ""
+  },
+  "redisForCache": {
+    "host": "127.0.0.1",
+    "port": 6379,
+    "defaultDuration": 3600000
+  },
+  "redisForSMQ": {
+    "host": "",
+    "port": 6379,
+    "ns": "rsmq"
+  },
+  "localeAPI": {
+    "getLocales": "",
+    "getTranslations": ""
+  },
+  "promotionAPI" : {
+    "getRule" : ""
+  },
+  "rngURLs": {
+    "desktop": "",
+    "mobile": ""
+  },
+  "hfgURLs": {
+    "desktop": "",
+    "mobile": ""
+  }
+}

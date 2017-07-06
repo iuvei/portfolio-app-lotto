@@ -1,0 +1,69 @@
+@import "libs/col";
+@import "libs/2cols";
+@import "libs/3cols";
+@import "libs/4cols";
+@import "libs/5cols";
+@import "libs/6cols";
+@import "libs/7cols";
+@import "libs/8cols";
+@import "libs/9cols";
+@import "libs/10cols";
+@import "libs/11cols";
+@import "libs/12cols";
+// loading animation
+@import "common-styles/loading";
+
+/* Modal Dialog styles */
+
+@import "common-styles/modalDialog";
+
+/* Image Gallery styles */
+
+@import "common-styles/imageGallery";
+// utils
+@import "common-styles/utils";
+// common styles
+@import "common-styles/common";
+// header styles
+@import "common-styles/header";
+// footer styles
+@import "common-styles/footer";
+
+/* page specific styles */
+
+// login form
+@import "account/login";
+// register form
+@import "account/register";
+// account settings
+@import "account/account-settings";
+// my account
+@import "account/myAccount/transaction";
+// my account
+@import "account/myAccount/cashier";
+// my lottery
+@import "account/my-lottery";
+// my account
+@import "account/deposit-withdrawal";
+// homepage
+@import "homepage/homepage";
+// LFG
+@import "lfg/lfg";
+// RNG
+@import "rng/rng";
+// HFG
+@import "hfg/hfg";
+// Scratchcards
+@import "scratchcards/scratchcards";
+// Casino Games
+@import "casino-games/casino-games";
+// Sweet Alert
+@import "sweetalert/sweetalert";
+// Casino Games
+@import "casino-play/casino-play";
+// Promotion
+@import "promotion/promotion";
+//Aboutus
+@import "aboutus/aboutus";
+//FAQ
+@import "faq/faq";

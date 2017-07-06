@@ -1,0 +1,594 @@
+// deposit-withdrawal specific styles
+
+#account-stats {
+  margin-bottom: .5em;
+
+  .section {
+    padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: stretch;
+    align-items: stretch;
+
+    & > div {
+      // margin-left: 0.5em;
+      // display: table-cell;
+      vertical-align: top;
+      width: 50%; //32.75%;
+    }
+
+    #available-balance {
+      margin-right: 0.25em;
+      order: 1;
+    }
+
+    #enrolled-promotion{
+     margin-right: 0.25em;
+     order: 2;
+   }
+
+    #proposed-bonus {
+      margin-left: 0.25em;
+      order: 3;
+    }
+  }
+
+  .gray-box {
+    min-height: 50px;
+  }
+
+  // .games-played {}
+
+}
+
+#deposit-withdrawal {
+  margin-bottom: .5em;
+
+  #tab-section {
+    .tabs {
+      border-radius: 4px;
+    }
+    .tab-links {
+      li {
+        width: auto;
+      }
+      a {
+        font-size: 14pt;
+      }
+    }
+  }
+
+  .amount-box {
+    border-radius: 8px;
+    border: solid 4px rgba(255, 255, 255, 0.5);
+    margin-bottom: 1.5em;
+    padding: 1.25em;
+    text-align: center;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    h2 {
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+
+      font-size: 2rem;
+      letter-spacing: -0.025em;
+    }
+
+    &.selected {
+      border: solid 4px #b5d264;
+    }
+
+    .amount-input {
+      display: flex;
+      justify-content: space-between;
+      align-items: stretch;
+      align-content: stretch;
+    }
+
+  }
+  
+  #depositAmount {
+    text-align: right;
+    font-size: 13pt;
+    height: auto;
+    margin-bottom: 0;
+  }
+  .black-box .box-title h3, .gray-box .box-title h3 {
+    font-size: 1.2em;
+    font-weight: 400;
+  }
+  .black-box {
+    @extend .gray-box;
+    background-color: rgba(0,0,0,.5);
+    height: 100%;
+    // .box-content { min-height: 200px; }
+
+  } 
+
+  .cc-options {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    &:hover, &.selected {
+      background-color: #a4cd27;
+      cursor: pointer;
+      // color: #222 !important;
+
+      &:before {
+        color: #fff;
+        fill: #fff;
+        content: '';
+        background-image: url(images/arrow-right.svg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: block;
+        height: 1.25em;
+        right: 1rem;
+        margin: -0.7em 0 0 -1em;
+        position: absolute;
+        top: 50%;
+        width: 1.25em;
+        z-index: 1;
+      }
+    }
+    &:active {
+      box-shadow: inset 0 0 0 2px #739e06;
+      background-color: #8BB40E;
+      color: #efefef !important;
+    }
+  }
+  .transfer {
+    #confirm-button {
+      width: 17rem;
+      .button {
+        // height: 4rem;
+        // width: 100%;
+        font-size: 14pt;
+        // font-weight: bold;
+        margin: 20px 1em 0 0;
+      }
+    }
+  }
+  .cc-info {
+    display: flex;
+
+    .cc-label { margin-left: 1em; font-size: 18px; }
+
+    #cc-form, #bank-form {
+      display: block;
+      clear: both;
+
+      & > div { margin-bottom: 1em; }
+    }
+
+    #balance {
+      text-align: center;
+      font-size: 2.5em;
+      margin-top: 1.5em;
+      margin-bottom: 1.5em;
+    }
+
+    #cc-form-action {
+      display: flex;
+      position: relative;
+      width: 100%;
+      justify-content: flex-end;
+
+      .button {
+        // height: 4rem;
+        // width: 100%;
+        font-size: 14pt;
+        // font-weight: bold;
+        display: inline-block;
+        margin-left: 1em;
+        height: 3em;
+        width: 8em;
+      }
+
+      #confirm-button {
+        // width: 17rem;
+
+        .special {
+          // font-size: 1em;
+        }
+      }
+    }
+
+    .payment-methods {
+      overflow-y: auto;
+      max-height: 355px;
+    }
+
+    .payment-panels {
+      padding: 0;
+      margin-left: 1.25em;
+
+      .payment-panel {
+        padding: 0;
+        height: 100%;
+      }
+    }
+
+    #bank-list {
+      display: flex;
+      justify-content: flex-start;
+      flex-wrap: wrap;
+      align-content: flex-start;
+      align-items: stretch;
+      margin-left: -13px;
+      padding: .8em;
+      margin-bottom: -1em;
+      float: left;
+
+      .bank-item {
+        width: 25%;
+        padding: 0 0 .8em .8em;
+
+        > label {
+          padding: 1px;
+
+          & > input + img {
+            border: 4px solid #fff;
+            border-radius: 2px;
+          }
+          & > input:checked + img {
+            border: 4px solid #a5cd28;
+          }
+        }
+      }
+      .bank-image {
+        // height: 44px;
+        cursor: pointer;
+        display: block;
+      }
+      .btn {
+        display: inline-block;
+        padding: 6px 12px;
+        margin-bottom: 0;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.42857143;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        background-image: none;
+        border: 1px solid transparent;
+        border-radius: 4px;
+      }
+      .btn-default {
+        color: #333;
+        background-color: #fff;
+        border-color: #ccc;
+      }
+      .my-group .form-control {
+        width: 50%;
+      }
+      .input-text {
+        height: 75px !important;
+        font-size: 1.5em;
+      }
+    }
+    .form-container {
+      // width: 25%;
+      display: block;
+      margin-left: auto;
+      float: right;
+
+      .currency-input {
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        -ms-appearance: none;
+        appearance: none;
+        -webkit-transition: border-color .2s ease-in-out;
+        transition: border-color .2s ease-in-out;
+        background: transparent;
+        border-radius: 4px;
+        border: 1px solid hsla(0,0%,100%,.3);
+        color: inherit;
+        display: block;
+        outline: 0;
+        padding: 0 1em;
+        margin-bottom: 1em;
+        text-decoration: none;
+        width: 100%;
+        font-weight: 400;
+      }
+
+      .form-control {
+        text-align: right;
+        display: block;
+        width: 100%;
+        height: 34px;
+        padding: 6px 0;
+        font-size: 14px;
+        line-height: 1.42857143;
+        color: #FEFEFE;
+        background: transparent;
+        border: 0px solid hsla(0, 0%, 100%, .3);
+        // background-color: #fff;
+        background-image: none;
+        // border: 1px solid #ccc;
+        border-radius: 4px;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+        -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+        -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+        transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+      }
+
+      .select {
+        // height: 75px !important;
+        font-size: 1.5em;
+        // padding: 10px;
+        option {
+          font-size: .65em;
+        }
+      }
+    }
+    .form-right {
+      padding: .8em;
+    }
+
+    .input-label {
+        display: block;
+        margin-bottom: .5em;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    input[type="email"],
+    select,
+    textarea {
+    //   padding: 0 1em;
+    //   width: 100%;
+
+    //   &:invalid {
+    //     box-shadow: none;
+    //   }
+
+      &.small {
+        display: inline-block;
+        width: 42%;
+        text-align: right;
+        padding: 0 5px;
+      }
+    }
+  }
+}
+
+#account-stats, #deposit-withdrawal {
+  h2 { margin-bottom: 0; }
+}
+
+#transactions-history {
+
+  .gray-box .box-title {
+    padding-right: 1em;
+  }
+
+  table {
+    margin: 0 0 1em 0;
+    width: 100%;
+    background-color: transparent;
+    border-radius: 0;
+    border-collapse: separate;
+    border-spacing: 0 5px;
+
+    tbody {
+      border-left: 0;
+      border-right: 0;
+      // background-color: #222;
+
+      tr {
+        border: solid 1px #323232; //_palette(border)
+        // padding: 0.75em 0.75em;
+        font-size: 1em;
+        border-radius: 4px !important;
+        background-color: #222;
+
+        // &:nth-child(odd) {
+        //   background-color: #222; //_palette(border-bg)
+        // }
+        // &:last-child {
+        //   border-radius: 0 0 4px 4px !important;
+        // }
+        &:hover {
+          background-color: #383838;
+          border-radius: 4px;
+          box-shadow: inset 0 0 10px 1px #aaa;
+          td {
+            &:first-child {
+              border-top-left-radius: 4px;
+              border-bottom-left-radius: 4px;
+            }
+            &:last-child {
+              border-top-right-radius: 4px;
+              border-bottom-right-radius: 4px;
+            }
+          }
+        }
+
+        td {
+          &:first-child {
+            border-top-left-radius: 4px;
+            border-bottom-left-radius: 4px;
+          }
+          &:last-child {
+            border-top-right-radius: 4px;
+            border-bottom-right-radius: 4px;
+          }
+        }
+
+      }
+    }
+
+    tr {
+      // border: solid 2px #323232; //_palette(border)
+      // border-left: 0;
+      // border-right: 0;
+    }
+
+    td {
+      padding: 0.75em 0.75em;
+      text-align: left;
+    }
+
+    th {
+      padding: 0.75em 0.75em;
+      // color: _palette(fg-bold);
+      font-size: 1em;
+      font-weight: bold; //_font(weight-bold);
+      // padding: 0 0.75em 0.75em 0.75em;
+      // text-align: left;
+      text-align: left;
+    }
+
+    thead {
+      border-bottom: solid 2px #323232; // _palette(border)
+      border-radius: 0;
+      background-color: none;
+    }
+
+    tfoot {
+      // border-top: solid 1px _palette(border);
+    }
+  }
+}
+
+@media screen and (max-width: 980px) {}
+@media screen and (max-width: 780px) {
+  body {
+        overflow-x: hidden !important;
+  }
+}
+@media screen and (max-width: 767px) {
+  body {
+        overflow-x: hidden !important;
+  }
+  #account-stats, #deposit-withdrawal, #transactions-history {
+    padding: 0 .25em;
+    margin-bottom: .25em;
+  }
+  #account-stats {
+    .section {
+      #available-balance {
+        margin-right: 0.125em;
+        order: 1;
+      }
+      #proposed-bonus {
+        margin-left: 0.125em;
+        order: 2;
+      }
+    }
+  }
+  #deposit-withdrawal {
+    .amount-box {
+      margin-bottom: .5em;
+    }
+    .cc-info {
+      display: block;
+
+      #cc-form, #bank-form {
+        & > div { margin-bottom: 0em; }
+      }
+
+      .payment-panels {
+        padding: 0;
+        margin-left: .5em;
+      }
+
+      #bank-list {
+        float: none;
+        margin-left: -5px;
+
+        .bank-item {
+          width: 50%;
+          padding: 0 0 .4em .6em;
+        }
+      }
+      .form-container {
+        float: none;
+        margin-left: 2px;
+      }
+
+      #cc-form-action {
+        position: relative;
+        flex-wrap: wrap;
+
+        .button {
+          margin-left: 0;
+          margin-bottom: 6px;
+          height: 2.5em;
+          line-height: 2em;
+          width: 100%;
+          display: block;
+        }
+
+        #confirm-button {
+          // width: 100%;
+          // .button { height: 3em; }
+        }
+      }
+
+      #balance {
+        font-size: 2em;
+      }
+
+    }
+    .black-box {
+      margin-bottom: .25em;
+    }
+  }
+  .transactions-table {
+    overflow: overlay;
+    table {
+      white-space: nowrap;
+    }
+  }
+}
+@media screen and (max-width: 480px) {
+  #account-stats, #deposit-withdrawal, #transactions-history {
+    padding: 0 .125em;
+    margin-bottom: .125em;
+  }
+  #account-stats {
+    .section {
+      #available-balance {
+        margin-right: 0.0625em;
+        order: 1;
+      }
+      #proposed-bonus {
+        margin-left: 0.0625em;
+        order: 2;
+      }
+    }
+  }
+}
+
+@media (max-device-width: 1024px) and (min-device-width: 768px), only screen and (max-width: 760px) {
+  thead tr {
+      position: none !important;
+  }
+  body {
+        overflow-x: hidden !important;
+      // display: inline-flex;
+  }
+  .transactions-table {
+    overflow: none;
+  }
+}

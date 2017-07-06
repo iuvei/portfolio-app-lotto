@@ -1,0 +1,100 @@
+// header specific styles
+
+#header {
+  background: rgba(0, 0, 0, 0.9) !important;
+  z-index: 99;
+
+  #logo a {
+    color: #6da601;
+    font-size: 1.8em;
+  }
+
+  #logo img {
+    width: auto;
+    height: 72%;
+    position: relative;
+    top: 8px;
+  }
+
+  .slogan {
+    position: absolute;
+    left: 9.5em;
+    margin-left: .5em;
+    color: #fff;
+    top: 0em;
+  }
+
+  #nav {
+    display: block;
+    right: 0;
+    line-height: 3.6em !important;
+    height: 3.5em !important;
+    margin: 0;
+    padding: 0;
+    width: auto;
+
+    ul {
+      list-style: none;
+      margin-bottom: 0;
+      font-size: 0;
+      margin-top: 0px;
+      padding: 0;
+      height: inherit !important;
+
+      li {
+        font-size: 11.5pt;
+        margin-left: 1.75em;
+        ul {
+          background:#131212;
+        }
+        a {
+          color: #A5CD28;
+          // font-family: 'Microsoft YaHei';
+          font-weight: 600;
+        }
+        .caret {
+
+          &:after {
+            content: "";
+            display: inline-block;
+            width: 0;
+            height: 0;
+            margin-left: 4px;
+            vertical-align: middle;
+            border-top: 4px dashed;
+            border-top: 4px solid\9;
+            border-right: 4px solid transparent;
+            border-left:  4px solid transparent;
+
+          }
+        }
+      }
+    }
+  }
+}
+
+.nav-special {
+  padding: 0 !important;
+  font-size : 12.5pt !important;
+  font-family: "Microsoft YaHei";
+  /*line-height: 3.5em;
+  height: 3.5em;*/
+  &.last {
+    margin: 0 !important;
+
+    /*height: 3.4em !important;*/
+  }
+}
+
+@media screen and (max-width: 1440px) {
+}
+@media screen and (max-width: 1280px) {
+}
+@media screen and (max-width: 980px) {
+}
+@media screen and (max-width: 780px) {
+}
+@media screen and (max-width: 767px) {
+}
+@media screen and (max-width: 480px) {
+}

@@ -1,0 +1,29 @@
+a lottery component has:
+ - header section:
+   - game icon
+   - game title
+   - jackpot prize
+   - jackpot label
+   - draw countdown timer
+ - game section:
+   - game/bet config
+   - bet slip / number selection
+   - checkout slip
+ - how to play section
+ - game history section
+
+Props:
+ - currency
+ - lotteryData
+ - actions
+
+Actions:
+ - fetchPrices
+ - fetchLotteries
+ - fetchDrawings
+ - postBets
+
+
+
+https://cdn.lottoland88.com/app/app-lottoland/images
+https://cdn.lottoland88.com/app/app-lottoland/fonts

@@ -1,0 +1,121 @@
+.faq {
+	.hidden {
+		display:none;
+	}
+	.btns {
+		text-align : center;
+		padding:5px;
+		.button{
+			background: #69a507;
+		}
+	}
+	section {
+      padding: 1em;
+  }
+  .gray-box {
+  	padding:1em;
+  }
+	h1 {
+      &.title {
+          color: #b5d264;
+          font-size: 2em ;
+          margin-bottom: 40px;
+      }
+  }
+  h3,h5 {
+      &.title {
+          color: #b5d264;
+          margin-bottom: 0;
+      }
+  }
+  table {
+  	tr, td {
+  		border:0.5px solid #999;
+  		&:hover {	
+				background:transparent;
+				border-radius: 0;
+    		box-shadow: none;
+  		}
+  	}
+  }
+  .title {
+    color: #b5d264;
+  }
+}
+
+
+	@media
+	only screen and (max-width: 760px),
+	(min-device-width: 768px) and (max-device-width: 1024px)  {
+		
+		.faq {
+			.row.uniform>* {
+			  padding: 0.5em 0 0 0.5em;
+			}
+			table, thead, tbody, th, td, tr {
+				display: block;
+				tr {
+  				border: 1px solid #ccc !important;
+			  }
+			  td {
+			  	border : none !important;
+			  }
+			}
+
+			thead tr {
+				position: absolute;
+				top: -9999px;
+				left: -9999px;
+			}
+
+			tr { border: 1px solid #ccc; }
+
+			td {
+				border: none;
+				// border-bottom: 1px solid #eee;
+				position: relative;
+				// padding-left: 50%;
+				text-align:left;
+			}
+
+			td:before {
+				position: absolute;
+				top: 6px;
+				left: 6px;
+				width: 45%;
+				padding-right: 10px;
+				white-space: nowrap;
+			}
+
+
+		}
+		/*
+		Label the data
+		*/
+		// td:nth-of-type(1):before { content: "First Name"; }
+		// td:nth-of-type(2):before { content: "Last Name"; }
+		// td:nth-of-type(3):before { content: "Job Title"; }
+		// td:nth-of-type(4):before { content: "Favorite Color"; }
+		// td:nth-of-type(5):before { content: "Wars of Trek?"; }
+		// td:nth-of-type(6):before { content: "Porn Name"; }
+		// td:nth-of-type(7):before { content: "Date of Birth"; }
+		// td:nth-of-type(8):before { content: "Dream Vacation City"; }
+		// td:nth-of-type(9):before { content: "GPA"; }
+		// td:nth-of-type(10):before { content: "Arbitrary Data"; }
+	}
+
+	@media only screen
+	and (min-device-width : 320px)
+	and (max-device-width : 480px) {
+		.faq {
+			.row.uniform>* {
+			    padding: 0.5em 0 0 0.5em;
+			}
+		}
+		td {
+			border:none !important;
+		}
+	}
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		
+	}
